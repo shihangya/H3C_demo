@@ -1,5 +1,4 @@
 import pytest_atf
-
 pytest_atf.noatf_mode()
 import os, re, string
 from datetime import datetime
@@ -9,7 +8,7 @@ from AtfLibrary.product import Terminal, CCmwDevice
 import time
 from mokuai.android import *
 
-dut = connect("wx3520x-g")
+dut = connect("wx5560x-1")
 
 
 # 服务模板
@@ -42,7 +41,7 @@ def set_radio_service_template(num):
     """
     a = "g"
     for i in range(num):
-        b = "wpa3-h2e"
+        b = a + str(i)
         # radio 下绑定
         dut.send(f"""
                 radio 1
@@ -174,24 +173,25 @@ def add_service_template_name(apname,name):
 if __name__ == '__main__':
     # 创建服务模版
     # set_service_template(20)
-    # #radio 下绑定
-    # set_radio_service_template(16)
+    #radio 下绑定
+    # set_radio_service_template(10)
     # #云AP radio 下绑定
+    
     # cloud_ap_radio_service_template()
     # #云AP radio 下解绑定
     # cloud_ap_radio_service_template_undo()
     # #radio 下解绑定
-    # ap_radio_service_template_undo(16)
+    # ap_radio_service_template_undo(14)
     # #删除服务模版
     # delete_service_template(15)
-    # while True:
+    while True:
         
-    #     add_service_template_name('ap1',['wpa3-h2e','g1','g2','g0','hsh','g3','g4','g5','g6','g7','g8','g9','g10'])
-    #     connect_to_wifi('Z5Y5KZY9LZRS69JF',"00*h2e-V9","123123123")
-    #     time.sleep(10)
-        # delete_service_template_name('ap1',['wpa3-h2e','g1','g2','g0','hsh','g3','g4','g5','g6','g7','g8','g9','g10'])
+        add_service_template_name('ap1',['wpa3-h2e','g1','g2','g0','g11','g3','g4','g5','g6','g7','g8','g9','g10'])
+        connect_to_wifi('Z5Y5KZY9LZRS69JF',"00*h2e-V9","123123123")
+        time.sleep(10)
+        delete_service_template_name('ap1',['wpa3-h2e','g1','g2','g0','g11','g3','g4','g5','g6','g7','g8','g9','g10'])
     
-    delete_service_template_name('ap1',['g2','g0','hsh','g3','g4','g5','g6','g7','g8','g9','g10'])
+    # delete_service_template_name('ap1',['g2','g0','hsh','g3','g4','g5','g6','g7','g8','g9','g10'])
     # add_service_template_name(ap1',['g1','g2','g0','hsh','g3','g4','g5','g6','g7','g8','g9','g10'])
     # connect_to_wifi('Z5Y5KZY9LZRS69JF',"00*h2e-V9","123123123")
 
