@@ -12,20 +12,20 @@ dut = connect("wx5560x-1")
 
 
 
-def test(device_name,num):
-    """
-    创建服务模版
-    """
-    dut = connect(device_name)
-    a = "g"
-    for i in range(num):
-        b = a + str(i)
-        # 创建服务模版
-        dut.send(f"""
+# def test(device_name,num):
+#     """
+#     创建服务模版
+#     """
+#     dut = connect(device_name)
+#     a = "g"
+#     for i in range(num):
+#         b = a + str(i)
+#         # 创建服务模版
+#         dut.send(f"""
                     
-                    {device_name}
-                """)
-        i = i + 1
+#                     {device_name}
+#                 """)
+#         i = i + 1
     
 # 服务模板
 def set_service_template(device_name,num):
