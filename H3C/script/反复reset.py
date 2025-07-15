@@ -1,6 +1,6 @@
-from mokuai.common_imports import *
+from mokuai.miji import *
 
-AC = connect("wx5560X")
+AC = connect("wx3520x-g")
 
 for i in range(10):
     AC.send('''
