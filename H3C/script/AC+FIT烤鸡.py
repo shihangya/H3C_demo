@@ -4,7 +4,7 @@ import random
 pytest_atf.noatf_mode()
 import os, re, string
 from datetime import datetime
-from H3C.mokuai.miji import connect
+from H3C.function.miji import connect
 from AtfLibrary.topology import TopologyMap
 from AtfLibrary.product import Terminal, CCmwDevice
 import time

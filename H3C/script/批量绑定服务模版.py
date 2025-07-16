@@ -1,4 +1,4 @@
-from mokuai.common_imports import *
+from function import *
 import time
 import re
 

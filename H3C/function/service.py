@@ -2,13 +2,13 @@ import pytest_atf
 pytest_atf.noatf_mode()
 import os, re, string
 from datetime import datetime
-from mokuai.miji import connect
+from miji import connect
 from AtfLibrary.topology import TopologyMap
 from AtfLibrary.product import Terminal, CCmwDevice
 import time
-from mokuai.android import *
+from android import *
 
-dut = connect("wx5560x-1")
+# dut = connect("qx-1240")
 
 
 
@@ -196,7 +196,7 @@ def add_service_template_name(device_name,apname,name):
        
 if __name__ == '__main__':
     # 创建服务模版
-    # set_service_template(20)
+    # set_service_template("qx1240",13)
     #radio 下绑定
     # set_radio_service_template(10)
     # #云AP radio 下绑定
@@ -208,11 +208,12 @@ if __name__ == '__main__':
     # ap_radio_service_template_undo(14)
     # #删除服务模版
     # delete_service_template(15)
-    while True:
+    # while True:
         
-        # add_service_template_name('ap1',['wpa3-h2e','g1','g2','g0','g11','g3','g4','g5','g6','g7','g8','g9','g10'])
-        connect_to_wifi('Z5Y5KZY9LZRS69JF',"00*h2e-V9","123123123")
-        time.sleep(10)
+    # add_service_template_name('qx1240','ap1',['wpa3-h2e','g0','g1','g2','wpa3-hnp','g3','g4','g5','g6','g7','g8','g9','g10','g11','g12'])
+    delete_service_template_name('qx1240','ap1',['wpa3-h2e','g0','g1','g2','wpa3-hnp','g3','g4','g5','g6','g7','g8','g9','g10','g11','g12'])
+    #     connect_to_wifi('Z5Y5KZY9LZRS69JF',"00*h2e-V9","123123123")
+    #     time.sleep(10)
         # delete_service_template_name('ap1',['wpa3-h2e','g1','g2','g0','g11','g3','g4','g5','g6','g7','g8','g9','g10'])
     
     # delete_service_template_name('ap1',['g2','g0','hsh','g3','g4','g5','g6','g7','g8','g9','g10'])

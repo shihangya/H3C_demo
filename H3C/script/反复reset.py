@@ -1,4 +1,4 @@
-from mokuai.miji import *
+from function.miji import *
 
 AC = connect("wx3520x-g")
 

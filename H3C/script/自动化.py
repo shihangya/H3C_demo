@@ -10,7 +10,7 @@ from datetime import datetime
 from AtfLibrary.topology import TopologyMap
 from AtfLibrary.product import Terminal, CCmwDevice
 import time
-from H3C.mokuai.miji import connect
+from H3C.function.miji import connect
 
 
 dut = connect("3520X-GG")

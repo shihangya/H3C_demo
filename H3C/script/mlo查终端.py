@@ -1,4 +1,4 @@
-from mokuai.miji import *
+from function.miji import *
 
 ac1 = connect("3520X-G")
 ac2 = connect("3520X-GBei")
