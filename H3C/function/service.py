@@ -173,7 +173,7 @@ def delete_service_template_name(device_name,apname,ser_name):
                     undo service-template {ser_name[i]}
                 """)
         
-def add_service_template_name(device_name,apname,name):
+def add_service_template_name(device_name,apname,ser_name):
     """
     按名字绑定服务模版
     传入示例：add_service_template_name('ap1',['g1','g2','g0','hsh'])
@@ -183,14 +183,14 @@ def add_service_template_name(device_name,apname,name):
                     system-view
                     wlan ap {apname}
                 """)  
-    for i in range(len(name)):
+    for i in range(len(ser_name)):
         dut.send(f"""
                     radio 1
-                    service-template {name[i]}
+                    service-template {ser_name[i]}
                     radio 2
-                    service-template {name[i]}
+                    service-template {ser_name[i]}
                     radio 3
-                    service-template {name[i]}
+                    service-template {ser_name[i]}
                 """)
 
 
