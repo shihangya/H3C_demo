@@ -150,7 +150,7 @@ def delete_service_template(device_name,num):
                 """)
         i = i+1
 
-def delete_service_template_name(device_name,apname,name):
+def delete_service_template_name(device_name,apname,ser_name):
     """
     按名字删除服务模版
     传入示例：delete_service_template_name('ap1',['g1','g2','g0','hsh'])
@@ -162,15 +162,15 @@ def delete_service_template_name(device_name,apname,name):
                     wlan ap {apname}
                 """)  
          
-    for i in range(len(name)):
+    for i in range(len(ser_name)):
 
         dut.send(f"""
                     radio 1
-                    undo service-template {name[i]}
+                    undo service-template {ser_name[i]}
                     radio 2
-                    undo service-template {name[i]}
+                    undo service-template {ser_name[i]}
                     radio 3
-                    undo service-template {name[i]}
+                    undo service-template {ser_name[i]}
                 """)
         
 def add_service_template_name(device_name,apname,name):
@@ -196,6 +196,7 @@ def add_service_template_name(device_name,apname,name):
 
        
 if __name__ == '__main__':
+    pass
     # 创建服务模版
     # set_service_template("qx1240",13)
     #radio 下绑定
@@ -211,7 +212,7 @@ if __name__ == '__main__':
     # delete_service_template(15)
     # while True:
         
-    add_service_template_name('qx1240','ap1',['wpa3-h2e','g0','g1','g2','wpa3-hnp','g3','g4','g5','g6','g7','g8','g9','g10','g11','g12'])
+    # add_service_template_name('qx1240','ap1',['wpa3-h2e','g0','g1','g2','wpa3-hnp','g3','g4','g5','g6','g7','g8','g9','g10','g11','g12'])
     # delete_service_template_name('qx1240','ap1',['wpa3-h2e','g0','g1','g2','wpa3-hnp','g3','g4','g5','g6','g7','g8','g9','g10','g11','g12'])
     #     connect_to_wifi('Z5Y5KZY9LZRS69JF',"00*h2e-V9","123123123")
     #     time.sleep(10)
