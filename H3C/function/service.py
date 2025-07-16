@@ -2,11 +2,12 @@ import pytest_atf
 pytest_atf.noatf_mode()
 import os, re, string
 from datetime import datetime
-from miji import connect
+from .miji import connect  # ✅ 修改为相对导入
 from AtfLibrary.topology import TopologyMap
 from AtfLibrary.product import Terminal, CCmwDevice
 import time
-from android import *
+from .android import *
+
 
 # dut = connect("qx-1240")
 
@@ -210,8 +211,8 @@ if __name__ == '__main__':
     # delete_service_template(15)
     # while True:
         
-    # add_service_template_name('qx1240','ap1',['wpa3-h2e','g0','g1','g2','wpa3-hnp','g3','g4','g5','g6','g7','g8','g9','g10','g11','g12'])
-    delete_service_template_name('qx1240','ap1',['wpa3-h2e','g0','g1','g2','wpa3-hnp','g3','g4','g5','g6','g7','g8','g9','g10','g11','g12'])
+    add_service_template_name('qx1240','ap1',['wpa3-h2e','g0','g1','g2','wpa3-hnp','g3','g4','g5','g6','g7','g8','g9','g10','g11','g12'])
+    # delete_service_template_name('qx1240','ap1',['wpa3-h2e','g0','g1','g2','wpa3-hnp','g3','g4','g5','g6','g7','g8','g9','g10','g11','g12'])
     #     connect_to_wifi('Z5Y5KZY9LZRS69JF',"00*h2e-V9","123123123")
     #     time.sleep(10)
         # delete_service_template_name('ap1',['wpa3-h2e','g1','g2','g0','g11','g3','g4','g5','g6','g7','g8','g9','g10'])
