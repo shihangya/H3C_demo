@@ -1,6 +1,6 @@
-from function.common_imports import *
+from function.service import *
 
 
 
 
-set_service_template(15)
+set_service_template('qx1240',15)

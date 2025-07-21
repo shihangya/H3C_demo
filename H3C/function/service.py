@@ -167,10 +167,13 @@ def delete_service_template_name(device_name,apname,ser_name):
         dut.send(f"""
                     radio 1
                     undo service-template {ser_name[i]}
+                    Y
                     radio 2
                     undo service-template {ser_name[i]}
+                    Y
                     radio 3
                     undo service-template {ser_name[i]}
+                    Y
                 """)
         
 def add_service_template_name(device_name,apname,ser_name):
