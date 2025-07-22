@@ -1,4 +1,4 @@
-from function.android import *
+from ..function.android import *
 
 # while True:
 #

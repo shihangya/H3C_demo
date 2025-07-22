@@ -53,7 +53,31 @@ def main():
     before_input = """
  
  
-
+SCB MAC Address: 6A:1D:B0:B1:48:7B AID: 552
+link: 0-----------------------------------
+scb tx packets: 0
+scb tx failed packets: 0
+scb tx total packets: 0
+scb rx packets: 0
+link: 1-----------------------------------
+scb tx packets: 0
+scb tx failed packets: 0
+scb tx total packets: 0
+scb rx packets: 0
+link: 2-----------------------------------
+scb tx packets: 78
+scb tx failed packets: 0
+scb tx total packets: 208
+scb rx packets: 759
+scb rssi window: 0 rssi chain window -- chain1: 0 chain 2: 0 chain 3: 0 chain 4: 0
+scb rssi window: 0 rssi chain window -- chain1: 0 chain 2: 0 chain 3: 0 chain 4: 0
+scb rssi window: 0 rssi chain window -- chain1: 0 chain 2: 0 chain 3: 0 chain 4: 0
+scb rssi window: 0 rssi chain window -- chain1: 0 chain 2: 0 chain 3: 0 chain 4: 0
+link: 3-----------------------------------
+scb tx packets: 0
+scb tx failed packets: 0
+scb tx total packets: 0
+scb rx packets: 0
  
  
  
@@ -64,7 +88,31 @@ def main():
     after_input =  """
     
  
-
+SCB MAC Address: 6A:1D:B0:B1:48:7B AID: 552
+link: 0-----------------------------------
+scb tx packets: 0
+scb tx failed packets: 0
+scb tx total packets: 0
+scb rx packets: 0
+link: 1-----------------------------------
+scb tx packets: 0
+scb tx failed packets: 0
+scb tx total packets: 0
+scb rx packets: 0
+link: 2-----------------------------------
+scb tx packets: 78
+scb tx failed packets: 0
+scb tx total packets: 208
+scb rx packets: 800
+scb rssi window: 0 rssi chain window -- chain1: 0 chain 2: 0 chain 3: 0 chain 4: 0
+scb rssi window: 0 rssi chain window -- chain1: 0 chain 2: 0 chain 3: 0 chain 4: 0
+scb rssi window: 0 rssi chain window -- chain1: 0 chain 2: 0 chain 3: 0 chain 4: 0
+scb rssi window: 0 rssi chain window -- chain1: 0 chain 2: 0 chain 3: 0 chain 4: 0
+link: 3-----------------------------------
+scb tx packets: 0
+scb tx failed packets: 0
+scb tx total packets: 0
+scb rx packets: 0
  
  
  """
