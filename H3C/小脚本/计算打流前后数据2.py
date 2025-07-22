@@ -92,69 +92,12 @@ def print_delta_table(delta_data):
 if __name__ == "__main__":
     before_text = """
     
-SCB MAC Address: 76:3D:65:D2:E8:4E AID: 552
-link: 0-----------------------------------
-scb tx packets: 306078
-scb tx failed packets: 0
-scb tx total packets: 320935
-scb rx packets: 46388
-scb rssi window: -22 rssi chain window -- chain1: -22 chain 2: -38 chain 3: -21 chain 4: -24
-scb rssi window: -22 rssi chain window -- chain1: -22 chain 2: -38 chain 3: -21 chain 4: -24
-scb rssi window: -22 rssi chain window -- chain1: -22 chain 2: -38 chain 3: -21 chain 4: -24
-scb rssi window: -22 rssi chain window -- chain1: -22 chain 2: -38 chain 3: -21 chain 4: -24
-link: 1-----------------------------------
-scb tx packets: 0
-scb tx failed packets: 0
-scb tx total packets: 0
-scb rx packets: 0
-link: 2-----------------------------------
-scb tx packets: 9265
-scb tx failed packets: 0
-scb tx total packets: 17614
-scb rx packets: 10289
-scb rssi window: -3 rssi chain window -- chain1: -3 chain 2: -14 chain 3: -2 chain 4: -16
-scb rssi window: -2 rssi chain window -- chain1: -17 chain 2: -10 chain 3: -1 chain 4: -9
-scb rssi window: -4 rssi chain window -- chain1: -3 chain 2: -13 chain 3: -21 chain 4: -12
-scb rssi window: -3 rssi chain window -- chain1: -3 chain 2: -17 chain 3: -2 chain 4: -16
-link: 3-----------------------------------
-scb tx packets: 0
-scb tx failed packets: 0
-scb tx total packets: 0
-scb rx packets: 0
+
 
     """
 
     after_text = """
     
-SCB MAC Address: 76:3D:65:D2:E8:4E AID: 552
-link: 0-----------------------------------
-scb tx packets: 613029
-scb tx failed packets: 0
-scb tx total packets: 642308
-scb rx packets: 88145
-scb rssi window: -16 rssi chain window -- chain1: -17 chain 2: -33 chain 3: -16 chain 4: -20
-scb rssi window: -16 rssi chain window -- chain1: -17 chain 2: -33 chain 3: -16 chain 4: -20
-scb rssi window: -16 rssi chain window -- chain1: -17 chain 2: -33 chain 3: -16 chain 4: -20
-scb rssi window: -16 rssi chain window -- chain1: -17 chain 2: -33 chain 3: -16 chain 4: -21
-link: 1-----------------------------------
-scb tx packets: 0
-scb tx failed packets: 0
-scb tx total packets: 0
-scb rx packets: 0
-link: 2-----------------------------------
-scb tx packets: 12084
-scb tx failed packets: 0
-scb tx total packets: 22939
-scb rx packets: 16217
-scb rssi window: -1 rssi chain window -- chain1: -17 chain 2: -10 chain 3: -1 chain 4: -9
-scb rssi window: -9 rssi chain window -- chain1: -15 chain 2: -10 chain 3: -4 chain 4: -9
-scb rssi window: -1 rssi chain window -- chain1: -2 chain 2: -10 chain 3: -1 chain 4: -9
-scb rssi window: -1 rssi chain window -- chain1: -15 chain 2: -10 chain 3: -1 chain 4: -9
-link: 3-----------------------------------
-scb tx packets: 0
-scb tx failed packets: 0
-scb tx total packets: 0
-scb rx packets: 0
 
 
     """

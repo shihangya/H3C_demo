@@ -53,18 +53,7 @@ def main():
     before_input = """
  
  
- [ap2-probe]dis ar5drv 1 statistics  | inc TxFrameAllBytes
- TxFrameAllBytes     : 10003400
-[ap2-probe]dis ar5drv 1 statistics  | inc RxFrameAllBytes
- RxFrameAllBytes     : 13536187
-[ap2-probe]dis ar5drv 2 statistics  | inc TxFrameAllBytes
- TxFrameAllBytes     : 42994935030
-[ap2-probe]dis ar5drv 2 statistics  | inc RxFrameAllBytes
- RxFrameAllBytes     : 16108457086
-[ap2-probe]dis ar5drv 3 statistics  | inc TxFrameAllBytes
- TxFrameAllBytes     : 21968076
-[ap2-probe]dis ar5drv 3 statistics  | inc RxFrameAllBytes
- RxFrameAllBytes     : 833640
+
  
  
  
@@ -75,18 +64,7 @@ def main():
     after_input =  """
     
  
- [ap2-probe]dis ar5drv 1 statistics  | inc TxFrameAllBytes
- TxFrameAllBytes     : 10393340
-[ap2-probe]dis ar5drv 1 statistics  | inc RxFrameAllBytes
- RxFrameAllBytes     : 13906433
-[ap2-probe]dis ar5drv 2 statistics  | inc TxFrameAllBytes
- TxFrameAllBytes     : 56914354403
-[ap2-probe]dis ar5drv 2 statistics  | inc RxFrameAllBytes
- RxFrameAllBytes     : 17010692175
-[ap2-probe]dis ar5drv 3 statistics  | inc TxFrameAllBytes
- TxFrameAllBytes     : 22848900
-[ap2-probe]dis ar5drv 3 statistics  | inc RxFrameAllBytes
- RxFrameAllBytes     : 880634
+
  
  
  """
