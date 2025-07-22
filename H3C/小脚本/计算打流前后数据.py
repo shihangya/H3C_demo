@@ -53,18 +53,18 @@ def main():
     before_input = """
  
  
- [ap1-probe]dis ar5drv 1 statistics  | inc TxFrameAllBytes
- TxFrameAllBytes     : 145691726
-[ap1-probe]dis ar5drv 1 statistics  | inc RxFrameAllBytes
- RxFrameAllBytes     : 880560312
-[ap1-probe]dis ar5drv 2 statistics  | inc TxFrameAllBytes
- TxFrameAllBytes     : 138352686926
-[ap1-probe]dis ar5drv 2 statistics  | inc RxFrameAllBytes
- RxFrameAllBytes     : 8749892118
-[ap1-probe]dis ar5drv 3 statistics  | inc TxFrameAllBytes
- TxFrameAllBytes     : 195187102
-[ap1-probe]dis ar5drv 3 statistics  | inc RxFrameAllBytes
- RxFrameAllBytes     : 7870403
+ [ap2-probe]dis ar5drv 1 statistics  | inc TxFrameAllBytes
+ TxFrameAllBytes     : 10003400
+[ap2-probe]dis ar5drv 1 statistics  | inc RxFrameAllBytes
+ RxFrameAllBytes     : 13536187
+[ap2-probe]dis ar5drv 2 statistics  | inc TxFrameAllBytes
+ TxFrameAllBytes     : 42994935030
+[ap2-probe]dis ar5drv 2 statistics  | inc RxFrameAllBytes
+ RxFrameAllBytes     : 16108457086
+[ap2-probe]dis ar5drv 3 statistics  | inc TxFrameAllBytes
+ TxFrameAllBytes     : 21968076
+[ap2-probe]dis ar5drv 3 statistics  | inc RxFrameAllBytes
+ RxFrameAllBytes     : 833640
  
  
  
@@ -74,19 +74,19 @@ def main():
     # print("\n请输入【打流后】的 CLI 输出（粘贴完后按 Ctrl+D 结束输入）：")
     after_input =  """
     
- [ap1-probe]dis ar5drv 1 statistics  | inc TxFrameAllBytes
- TxFrameAllBytes     : 146089438
-[ap1-probe]dis ar5drv 1 statistics  | inc RxFrameAllBytes
- RxFrameAllBytes     : 906710144
-[ap1-probe]dis ar5drv 2 statistics  | inc TxFrameAllBytes
- TxFrameAllBytes     : 139878849087
-[ap1-probe]dis ar5drv 2 statistics  | inc RxFrameAllBytes
- RxFrameAllBytes     : 10509848382
-[ap1-probe]dis ar5drv 3 statistics  | inc TxFrameAllBytes
- TxFrameAllBytes     : 196453720
-[ap1-probe]dis ar5drv 3 statistics  | inc RxFrameAllBytes
- RxFrameAllBytes     : 7899706
  
+ [ap2-probe]dis ar5drv 1 statistics  | inc TxFrameAllBytes
+ TxFrameAllBytes     : 10393340
+[ap2-probe]dis ar5drv 1 statistics  | inc RxFrameAllBytes
+ RxFrameAllBytes     : 13906433
+[ap2-probe]dis ar5drv 2 statistics  | inc TxFrameAllBytes
+ TxFrameAllBytes     : 56914354403
+[ap2-probe]dis ar5drv 2 statistics  | inc RxFrameAllBytes
+ RxFrameAllBytes     : 17010692175
+[ap2-probe]dis ar5drv 3 statistics  | inc TxFrameAllBytes
+ TxFrameAllBytes     : 22848900
+[ap2-probe]dis ar5drv 3 statistics  | inc RxFrameAllBytes
+ RxFrameAllBytes     : 880634
  
  
  """
