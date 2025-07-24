@@ -1217,7 +1217,7 @@ def connect_to_wifi(serial_id, ssid, password):
         time.sleep(5)
 
         # 检查是否成功获取 IP 地址
-        for i in range(10):
+        for i in range(5):
             ip = get_wlan0(serial_id)
             if ip and ip.count(".") == 3:
                 print(f"该设备{serial_id} 获取到 IP: {ip}")
