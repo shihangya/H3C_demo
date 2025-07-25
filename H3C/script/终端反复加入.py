@@ -28,7 +28,8 @@ while True:
                 Y
                 dis wlan client
                 ''')
-    multi_all("00h00h00h")
+    connect_to_wifi("Z5Y5KZY9LZRS69JF", "00h00h00h", "123123123")
+    # multi_all("00h00h00h")
     AC.send('''
                 sys
                 wlan ser 20
@@ -45,7 +46,9 @@ while True:
                 Y
                 dis wlan client
                 ''')
-    multi_all("00h00h00h-00")
+    # multi_all("00h00h00h-00")
+    connect_to_wifi("Z5Y5KZY9LZRS69JF", "00h00h00h-00", "123123123")
     time.sleep(3)
+
 # multi_all("2580x-owe")
 
