@@ -19,26 +19,17 @@ dut.add_terminal(ternl)
 dut.topofinder = finder
 
 radios = ["interface WLAN-Radio 1/0/1", "interface WLAN-Radio 1/0/2", "interface WLAN-Radio 1/0/3"]
-type_radios1 = ["dot11a","dot11abe ","dot11abe ","dot11abe ", "dot11ac", "dot11an", "dot11ax","dot11be","dot11be","dot11be","dot11eax"]
-type_radios2 = ["dot11a ", "dot11abe","dot11abe","dot11abe","dot11abe","dot11abe", "dot11ac", "dot11an", "dot11ax"]
-type_radios3 = ["dot11b ", "dot11g", "dot11gax", "dot11gn"]
+
 
 
 selected_radio = random.choice(radios)
-selected_type = random.choice(type_radios1)
+
 
 
 for i in range(50000):
     selected_radio = random.choice(radios)
 
-    # 根据 radio 选择对应的 type
-    if selected_radio == "interface WLAN-Radio 1/0/1":
-        selected_type = random.choice(type_radios1)
-    elif selected_radio == "interface WLAN-Radio 1/0/2":
-        selected_type = random.choice(type_radios2)
-    else:
-        selected_type = random.choice(type_radios3)  # 可选默认处理
-    # 创建服务模版
+
     dut.send(f"""
                 {selected_radio}
                 shutdown

@@ -12,7 +12,7 @@ import time
 finder = TopologyMap()
 
 ternl = Terminal()
-ternl.access_name = "WA7220H"
+ternl.access_name = "wa7638"
 ternl.open_window()
 dut = CCmwDevice()
 dut.add_terminal(ternl)
@@ -26,10 +26,10 @@ from AtfLibrary.product import CCmwDevice
 # 假设 dut、Terminal 等已定义并初始化
 
 # 服务模板
-service_template1 = ("wpa3-h2e", "1", "66", "wpa3-hnp", "wpa3-only", "hsh", "wpa3-both")
-service_template2 = ("1", "wpa3-hnp", "wpa3-h2e", "66", "hsh", "wpa3-both", "wpa3-only")
+service_template1 = ("wpa3-h2e", "g0", "g1", "wpa3-hnp", "g2", "g3", "g4", "g5", "g6", "g7", "g8", "g9", "g10", "g11", "hsh")
+service_template2 = ("wpa3-h2e", "g0", "g1", "wpa3-hnp", "g2", "g3", "g4", "g5", "g6", "g7", "g8", "g9", "g10", "g11", "hsh")
 
-mode = 1  # 控制先绑定还是先解绑：0=绑定，1=解绑
+mode = 0  # 控制先绑定还是先解绑：0=绑定，1=解绑
 
 
 def get_shuffled_with_same_prefix(template1, template2):
@@ -60,12 +60,16 @@ while True:
         print("radio2下的为：", shuffled_service2)
 
         for i in shuffled_service1:
-            for j in shuffled_service2:
-                dut.send(f"""
-                            interface WLAN-Radio 1/0/1
-                            service-template {i}
-                            interface WLAN-Radio 1/0/2
-                            service-template {j}
+            dut.send(f"""
+                        interface WLAN-Radio 1/0/1
+                        service-template {i}                                        
+                                     """)
+        for j in shuffled_service2:
+            dut.send(f"""
+                        interface WLAN-Radio 1/0/2
+                        service-template {j}
+                        interface WLAN-Radio 1/0/3
+                        service-template {j}
                          """)
     else:
         print("当前为解绑模式")
@@ -74,16 +78,31 @@ while True:
         print("radio2下的为：", shuffled_service2)
 
         for i in shuffled_service1:
-            for j in shuffled_service2:
-                dut.send(f"""
-                            interface WLAN-Radio 1/0/1
-                            undo service-template {i}
-                            interface WLAN-Radio 1/0/2
-                            undo service-template {j}
+            dut.send(f"""
+                        interface WLAN-Radio 1/0/1
+                        undo service-template {i}                                        
+                                     """)
+        for j in shuffled_service2:
+            dut.send(f"""
+                        interface WLAN-Radio 1/0/2
+                        undo service-template {j}
+                        interface WLAN-Radio 1/0/3
+                        undo service-template {j}
                          """)
 
+        # for i in shuffled_service1:
+        #     for j in shuffled_service2:
+        #         dut.send(f"""
+        #                     interface WLAN-Radio 1/0/1
+        #                     undo service-template {i}
+        #                     interface WLAN-Radio 1/0/2
+        #                     undo service-template {j}
+        #                     interface WLAN-Radio 1/0/3
+        #                     undo service-template {j}
+        #                  """)
+
     mode += 1
-    time.sleep(3)
+    time.sleep(10)
 
 
 
