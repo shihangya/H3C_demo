@@ -9,7 +9,9 @@ from function.miji import *
 #     a = get_wlan0_android14('ZY22GCD32Q')
 #     print("STA IP 为：" + a)
 #     multi_ping(['ZY22GCD32Q'],'8.1.1.231')
-AC = connect("2520x1")
+
+
+AC = connect("3520h_kaoji")
 while True:
     # connect_to_wifi("Z5Y5KZY9LZRS69JF","guajiceshi","123123123")
     AC.send(f'''
@@ -19,7 +21,7 @@ while True:
                 wlan ser 20
                 undo ser enable
                 Y
-                ssid 00h00h00h99
+                ssid 030303
                 ser en
                 quit
                 quit
@@ -32,7 +34,8 @@ while True:
                 dis wlan client
                 dis wlan client verbose  | inc MLO
                 ''')
-    connect_to_wifi("Z5Y5KZY9LZRS69JF", "00h00h00h99", "123123123")
+    # connect_wifi_android10_pass("92232c6b", "030303", "wpa2", "123123123")
+    connect_to_wifi("92232c6b", "030303", "123123123")
     # multi_all("00h00h00h")
     AC.send('''
                 sys
@@ -41,7 +44,7 @@ while True:
                 wlan ser 20
                 undo ser enable
                 Y
-                ssid 00h00h00h-0099
+                ssid 020203
                 ser en
                 quit
                 quit
@@ -55,7 +58,8 @@ while True:
                 dis wlan client verbose  | inc MLO
                 ''')
     # multi_all("00h00h00h-00")
-    connect_to_wifi("Z5Y5KZY9LZRS69JF", "00h00h00h-0099", "123123123")
+    # connect_wifi_android10_pass("92232c6b", "020203", "wpa2", "123123123")
+    connect_to_wifi("92232c6b", "020203", "123123123")
     time.sleep(3)
 
 # multi_all("2580x-owe")

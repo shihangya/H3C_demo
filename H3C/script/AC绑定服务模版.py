@@ -5,7 +5,7 @@ from function.service import *
 
 AC = connect("2520x1")
 
-moban = ("wpa3-h2e","wpa3-both","g0","g1","g2","g3","g4","g5","g6","g7","g8","g9","g10","g11","g12")
+moban = ("g0","g1","g2","g3","g4","g5","g6","g7","g8","g9","g10","g11","g12","g13","g14")
 a = 2
 
 if a == 1:

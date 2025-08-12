@@ -3,6 +3,8 @@ import time
 import threading
 import re
 import uiautomator2 as u2
+import subprocess
+import time
 # from asyncio.tasks import sleep
 def devices_serial_id():
     device_list=[]
@@ -1230,6 +1232,77 @@ def connect_to_wifi(serial_id, ssid, password):
     except Exception as e:
         print(f"连接失败: {e}")
         return f"False: {str(e)}"
+
+
+
+
+import subprocess
+import time
+
+def connect_wifi_android10_pass(device_id, ssid, mode, password):
+    """
+    通过ADB命令连接Android 10及以上版本的WiFi网络
+
+    参数:
+        device_id (str): 设备序列号
+        ssid (str): WiFi网络名称
+        mode (str): 认证模式 (open, wep, wpa2)
+        password (str): WiFi密码
+
+        open - 开放网络（无密码）
+        wep - WEP 加密网络
+        wpa2 - WPA2 加密网络（最常用）
+        wpa - WPA 加密网络
+        owe - 增强开放网络（ Opportunistic Wireless Encryption ）
+        sae - 同步认证（WPA3个人版）
+        eap - EAP 认证（企业网络）
+
+    返回:
+        bool: 连接成功返回True，失败返回False
+    """
+    try:
+        # # 禁用WiFi
+        # subprocess.run(f"adb -s {device_id} shell svc wifi disable",
+        #               shell=True, check=True, capture_output=True)
+        # time.sleep(1)
+        #
+        # # 启用WiFi
+        # subprocess.run(f"adb -s {device_id} shell svc wifi enable",
+        #               shell=True, check=True, capture_output=True)
+        # time.sleep(2)
+
+        # 构造并执行连接命令
+        cmd = f'adb -s {device_id} shell cmd wifi connect-network "{ssid}" {mode} "{password}"'
+        result = subprocess.run(cmd, shell=True, capture_output=True, text=True)
+
+        # 检查执行结果
+        if result.returncode != 0:
+            error_msg = result.stderr.strip() if result.stderr else "连接WiFi失败"
+            print(f"连接WiFi失败: {error_msg}")
+            return False
+
+        print(f"成功连接到WiFi: {ssid}")
+
+        # 获取IP地址
+        # 等待并检查是否成功获取IP地址
+        for i in range(5):
+            ip = get_wlan0(device_id)
+            if ip and ip.count(".") == 3:
+                print(f"设备 {device_id} 获取到IP地址: {ip}")
+                return True
+            time.sleep(5)
+
+        print(f"设备 {device_id} 未能成功获取IP地址")
+        return False
+
+    except subprocess.CalledProcessError as e:
+        print(f"执行ADB命令时出错: {e.stderr.decode() if e.stderr else str(e)}")
+        return False
+    except Exception as e:
+        print(f"连接WiFi时发生异常: {str(e)}")
+        return False
+
+
 
 
 if __name__ == '__main__':
