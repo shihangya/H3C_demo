@@ -49,6 +49,6 @@ try:
     while True:
         refresh_ap_radio_config()
         print("等待下一次执行...")
-        time.sleep(1)  # 等待 5 分钟
+        time.sleep(300)  # 等待 5 分钟
 except KeyboardInterrupt:
     print("脚本已手动终止。")
