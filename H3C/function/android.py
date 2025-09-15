@@ -1234,6 +1234,41 @@ def connect_to_wifi(serial_id, ssid, password):
         return f"False: {str(e)}"
 
 
+def click_to_connect_wifi(serial_id, ssid, x_coord, y_coord):
+    """
+    通过点击屏幕坐标来连接到指定的Wi-Fi网络
+
+    :param serial_id: 设备序列号
+    :param ssid: Wi-Fi 名称
+    :param x_coord: 点击位置的X坐标
+    :param y_coord: 点击位置的Y坐标
+    :return: 成功返回 "True"，失败返回错误信息
+    """
+    try:
+        # 启动 Wi-Fi
+        os.system(f'adb -s {serial_id} shell svc wifi enable')
+        time.sleep(2)
+
+        # 点击屏幕上的指定坐标来连接Wi-Fi
+        click_cmd = f'adb -s {serial_id} shell input tap {x_coord} {y_coord}'
+        print(f"点击屏幕坐标 ({x_coord}, {y_coord}) 来连接Wi-Fi: {ssid}")
+        os.system(click_cmd)
+        time.sleep(3)
+
+        # 检查是否成功获取 IP 地址
+        for i in range(5):
+            ip = get_wlan0(serial_id)
+            if ip and ip.count(".") == 3:
+                print(f"设备 {serial_id} 成功连接到 {ssid}，获取到 IP: {ip}")
+                return "True"
+            time.sleep(5)
+
+        print(f"设备 {serial_id} 未成功连接到 {ssid}")
+        return "False"
+
+    except Exception as e:
+        print(f"通过点击屏幕连接Wi-Fi失败: {e}")
+        return f"False: {str(e)}"
 
 
 import subprocess
@@ -1303,6 +1338,144 @@ def connect_wifi_android10_pass(device_id, ssid, mode, password):
         return False
 
 
+def device_sleep(serial_id):
+    """
+    使用ADB命令使Android设备进入休眠状态
+
+    参数:
+        serial_id (str): 设备序列号
+
+    返回:
+        str: 成功返回"True"，失败返回错误信息
+    """
+    try:
+        # 方法1: 通过发送广播使设备进入休眠状态
+        cmd = f"adb -s {serial_id} shell input keyevent KEYCODE_SLEEP"
+        result = os.system(cmd)
+
+        if result == 0:
+            return "True"
+        else:
+            return f"False: 执行命令失败，返回码 {result}"
+
+    except Exception as e:
+        return f"False: {str(e)}"
+
+
+def device_wake_up(serial_id):
+    """
+    使用ADB命令唤醒Android设备屏幕
+
+    参数:
+        serial_id (str): 设备序列号
+
+    返回:
+        str: 成功返回"True"，失败返回错误信息
+    """
+    try:
+        # 方法1: 通过发送POWER键事件唤醒设备
+        cmd = f"adb -s {serial_id} shell input keyevent KEYCODE_POWER"
+        result = os.system(cmd)
+
+        if result == 0:
+            return "True"
+        else:
+            return f"False: 执行命令失败，返回码 {result}"
+
+    except Exception as e:
+        return f"False: {str(e)}"
+
+
+def device_wake_up_alt(serial_id):
+    """
+    使用ADB命令唤醒Android设备屏幕（替代方法）
+
+    参数:
+        serial_id (str): 设备序列号
+
+    返回:
+        str: 成功返回"True"，失败返回错误信息
+    """
+    try:
+        # 方法2: 通过发送WAKEUP键事件唤醒设备
+        cmd = f"adb -s {serial_id} shell input keyevent KEYCODE_WAKEUP"
+        result = os.system(cmd)
+
+        if result == 0:
+            return "True"
+        else:
+            return f"False: 执行命令失败，返回码 {result}"
+
+    except Exception as e:
+        return f"False: {str(e)}"
+
+
+def device_check_and_wake(serial_id):
+    """
+    检查设备屏幕状态并唤醒屏幕（如果处于休眠状态）
+
+    参数:
+        serial_id (str): 设备序列号
+
+    返回:
+        str: 成功返回"True"，失败返回错误信息
+    """
+    try:
+        # 首先检查设备的电源状态
+        cmd = f"adb -s {serial_id} shell dumpsys power | grep 'mWakefulness'"
+        result = os.popen(cmd).read()
+
+        if "Asleep" in result or "Dozing" in result:
+            # 如果设备处于休眠状态，则发送唤醒命令
+            wake_cmd = f"adb -s {serial_id} shell input keyevent KEYCODE_WAKEUP"
+            os.system(wake_cmd)
+            return "True"
+        elif "Awake" in result:
+            # 设备已经处于唤醒状态
+            return "True"
+        else:
+            # 尝试发送POWER键事件
+            power_cmd = f"adb -s {serial_id} shell input keyevent KEYCODE_POWER"
+            os.system(power_cmd)
+            return "True"
+
+    except Exception as e:
+        return f"False: {str(e)}"
+
+
+def single_device_ping(serial_id, ip, count=4):
+    """
+    控制指定的单个Android设备ping一个特定的IP地址
+
+    参数:
+        serial_id (str): 要执行ping操作的设备序列号
+        ip (str): 要ping的目标IP地址
+        count (int): ping的次数，默认为4次
+
+    返回:
+        str: 成功返回"True"，失败返回"False"或错误信息
+    """
+    try:
+        # 构造ADB命令
+        cmd = f"adb -s {serial_id} shell ping -c {count} {ip}"
+
+        # 执行ping命令
+        result = os.popen(cmd).read()
+
+        # 统计返回结果中的ttl数量来判断ping是否成功
+        ttl_count = result.count("ttl")
+
+        print(f"{serial_id} ping {ip}: TTL={ttl_count}")
+
+        # 如果至少收到一个回复，则认为ping成功
+        if ttl_count >= 1:
+            return "True"
+        else:
+            return "False"
+
+    except Exception as e:
+        print(f"设备 {serial_id} 执行ping时出错: {e}")
+        return f"False: {str(e)}"
 
 
 if __name__ == '__main__':

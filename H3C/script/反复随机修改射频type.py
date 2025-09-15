@@ -8,7 +8,7 @@ from AtfLibrary.product import Terminal, CCmwDevice
 import time
 from function.miji import connect
 
-dut = connect("3520X-GG")
+dut = connect("wa7638_kaoji")
 
 #定义 radio 和 type
 radios = ["radio 1", "radio 2"]
@@ -21,31 +21,45 @@ selected_type = random.choice(type_radios1)
 
 i = 1
 a = "g"
-for i in range(20):
-    b = a + str(i)
-    # 随机选择一个 radio
-    selected_radio = random.choice(radios)
-
-
-    # 根据 radio 选择对应的 type
-    if selected_radio == "radio 1":
-        selected_type = random.choice(type_radios1)
-    elif selected_radio == "radio 2":
-        selected_type = random.choice(type_radios2)
-    else:
-        selected_type = ""  # 可选默认处理
+while True:
+    # b = a + str(i)
+    # # 随机选择一个 radio
+    # selected_radio = random.choice(radios)
+    #
+    #
+    # # 根据 radio 选择对应的 type
+    # if selected_radio == "radio 1":
+    #     selected_type = random.choice(type_radios1)
+    # elif selected_radio == "radio 2":
+    #     selected_type = random.choice(type_radios2)
+    # else:
+    #     selected_type = ""  # 可选默认处理
     # 创建服务模版
+    # dut.send(f"""
+    #             wlan ap ap1
+    #             {selected_radio}
+    #             radio disable
+    #             radio enable
+    #             type {selected_type}
+    #             Y
+    #             Y
+    #             """ )
+    # time.sleep(2)
     dut.send(f"""
-                wlan ap ap1
-                {selected_radio}
-                radio disable
-                radio enable
-                type {selected_type}
+                interface WLAN-Radio 1/0/1
+                
+                type dot11abe
                 Y
                 Y
                 """ )
-    i = i + 1
     time.sleep(2)
+    dut.send(f"""
+                interface WLAN-Radio 1/0/1
+                
+                type dot11be
+                Y
+                Y
+                """ )
 
 
 

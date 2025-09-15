@@ -2,11 +2,6 @@ import tkinter as tk
 from tkinter import ttk, messagebox
 import json
 import os
-
-
-import os, re, string
-from datetime import datetime
-
 from AtfLibrary.topology import TopologyMap
 from AtfLibrary.product import Terminal, CCmwDevice
 
@@ -35,7 +30,7 @@ class ACServiceTemplateApp:
         self.device_names = ["3520h_1"]
 
         # 服务模板列表（可编辑）
-        self.moban1 = ["hsh", "hsh1", "wpa2-persion", "wpa3-qiye", "66", "mac"]
+        self.moban1 = ["hsh", "mac", "hsh1", "hshs", "ipad", "dot1x", "per-psk", "wpa3-h2e", "wpa3-hnp", "wpa3-psk", "wpa3-qiye", "wpa3-dot1x", "wpa2-persion", "wpa3-h2e-7538", "wpa3-h2e-7539", "wpa3-hnp-7539", "wpa3-both-7539"]
         self.moban2 = ["g15","g16","g17","g18","g19","g20","g21","g22","g23","g24","g25","g26","g27","g28","g29"]
         self.moban3 = ["g30","g31","g32","g33","g34","g35","g36","g37","g38","g39","g40","g41","g42","g43","g44"]
 
@@ -44,6 +39,10 @@ class ACServiceTemplateApp:
 
         # 当前选中的模板
         self.selected_templates = []
+
+        # 先加载配置
+        self.load_template_config()
+        self.load_device_names()
 
         # 先创建界面组件
         self.create_widgets()
@@ -296,6 +295,8 @@ class ACServiceTemplateApp:
         if added_count > 0:
             template_var.set("")
             self.log_message(f"已添加 {added_count} 个模板到 {list_name}")
+            # 保存配置
+            self.save_template_config()
         else:
             messagebox.showwarning("重复模板", "所有模板都已存在")
 
@@ -313,6 +314,8 @@ class ACServiceTemplateApp:
             del template_list[i]
 
         self.log_message(f"已从 {list_name} 删除 {len(selected_indices)} 个模板")
+        # 保存配置
+        self.save_template_config()
 
     def add_template_to_custom_group(self, template_var, group_name):
         """添加模板到自定义组"""
@@ -465,6 +468,8 @@ class ACServiceTemplateApp:
                 self.device_names.append(device_name)
                 self.device_combo.config(values=self.device_names)
                 self.log_message(f"已添加新设备到列表: {device_name}")
+                # 保存设备配置
+                self.save_device_names()
 
             self.AC = connect(device_name)
             self.connection_status.config(text="已连接", foreground="green")
@@ -487,6 +492,8 @@ class ACServiceTemplateApp:
         self.device_names.append(device_name)
         self.device_combo.config(values=self.device_names)
         self.log_message(f"已添加设备: {device_name}")
+        # 保存设备配置
+        self.save_device_names()
 
     def delete_device(self):
         device_name = self.device_name_var.get().strip()
@@ -505,6 +512,8 @@ class ACServiceTemplateApp:
         self.device_names.remove(device_name)
         self.device_combo.config(values=self.device_names)
         self.log_message(f"已删除设备: {device_name}")
+        # 保存设备配置
+        self.save_device_names()
 
         # 如果删除的是当前选中项，清空输入框
         if self.device_name_var.get() == device_name:
@@ -587,6 +596,27 @@ class ACServiceTemplateApp:
         except Exception as e:
             self.log_message(f"保存自定义组失败: {str(e)}")
 
+    def save_template_config(self):
+        """保存模板配置到文件"""
+        try:
+            template_config = {
+                "moban1": self.moban1,
+                "moban2": self.moban2,
+                "moban3": self.moban3
+            }
+            with open("template_config.json", "w", encoding="utf-8") as f:
+                json.dump(template_config, f, ensure_ascii=False, indent=2)
+        except Exception as e:
+            self.log_message(f"保存模板配置失败: {str(e)}")
+
+    def save_device_names(self):
+        """保存设备名称列表到文件"""
+        try:
+            with open("device_names.json", "w", encoding="utf-8") as f:
+                json.dump(self.device_names, f, ensure_ascii=False, indent=2)
+        except Exception as e:
+            self.log_message(f"保存设备名称失败: {str(e)}")
+
     def load_custom_groups(self):
         """从文件加载自定义模板组"""
         try:
@@ -606,6 +636,44 @@ class ACServiceTemplateApp:
             print(f"JSON格式错误，已删除损坏的配置文件: {str(e)}")
         except Exception as e:
             print(f"加载自定义组失败: {str(e)}")
+
+    def load_template_config(self):
+        """从文件加载模板配置"""
+        try:
+            if os.path.exists("template_config.json"):
+                with open("template_config.json", "r", encoding="utf-8") as f:
+                    content = f.read().strip()
+                    if content:  # 检查文件是否为空
+                        template_config = json.loads(content)
+                        if "moban1" in template_config:
+                            self.moban1 = template_config["moban1"]
+                        if "moban2" in template_config:
+                            self.moban2 = template_config["moban2"]
+                        if "moban3" in template_config:
+                            self.moban3 = template_config["moban3"]
+        except json.JSONDecodeError as e:
+            # 如果JSON格式错误，删除损坏的文件
+            if os.path.exists("template_config.json"):
+                os.remove("template_config.json")
+            print(f"模板配置JSON格式错误，已删除损坏的配置文件: {str(e)}")
+        except Exception as e:
+            print(f"加载模板配置失败: {str(e)}")
+
+    def load_device_names(self):
+        """从文件加载设备名称列表"""
+        try:
+            if os.path.exists("device_names.json"):
+                with open("device_names.json", "r", encoding="utf-8") as f:
+                    content = f.read().strip()
+                    if content:  # 检查文件是否为空
+                        self.device_names = json.loads(content)
+        except json.JSONDecodeError as e:
+            # 如果JSON格式错误，删除损坏的文件
+            if os.path.exists("device_names.json"):
+                os.remove("device_names.json")
+            print(f"设备名称JSON格式错误，已删除损坏的配置文件: {str(e)}")
+        except Exception as e:
+            print(f"加载设备名称失败: {str(e)}")
 
     def log_message(self, message):
         self.log_text.insert(tk.END, message + "\n")

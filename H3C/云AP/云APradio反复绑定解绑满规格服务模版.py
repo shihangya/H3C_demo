@@ -12,7 +12,7 @@ import time
 finder = TopologyMap()
 
 ternl = Terminal()
-ternl.access_name = "wa7638"
+ternl.access_name = "7230"
 ternl.open_window()
 dut = CCmwDevice()
 dut.add_terminal(ternl)
@@ -26,8 +26,8 @@ from AtfLibrary.product import CCmwDevice
 # 假设 dut、Terminal 等已定义并初始化
 
 # 服务模板
-service_template1 = ("wpa3-h2e", "g0", "g1", "wpa3-hnp", "g2", "g3", "g4", "g5", "g6", "g7", "g8", "g9", "g10", "g11", "hsh")
-service_template2 = ("wpa3-h2e", "g0", "g1", "wpa3-hnp", "g2", "g3", "g4", "g5", "g6", "g7", "g8", "g9", "g10", "g11", "hsh")
+service_template1 = ("g0", "g1", "g2", "g3", "g4", "g5", "g6", "g7", "g8", "g9", "g10", "g11", "g12", "g13", "g14", "g15")
+service_template2 = ("g0", "g1", "g2", "g3", "g4", "g5", "g6", "g7", "g8", "g9", "g10", "g11", "g12", "g13", "g14", "g15")
 
 mode = 0  # 控制先绑定还是先解绑：0=绑定，1=解绑
 
@@ -102,7 +102,7 @@ while True:
         #                  """)
 
     mode += 1
-    time.sleep(10)
+    time.sleep(4)
 
 
 
