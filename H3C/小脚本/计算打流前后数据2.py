@@ -92,7 +92,31 @@ def print_delta_table(delta_data):
 if __name__ == "__main__":
     before_text = """
     
-SCB MAC Address: 6A:1D:B0:B1:48:7B AID: 552
+SCB MAC Address: 2A:59:23:CA:EA:FA AID: 552
+link: 0-----------------------------------
+scb tx packets: 26
+scb tx failed packets: 0
+scb tx total packets: 30
+scb rx packets: 42
+scb rssi window: -62 rssi chain window -- chain1: -63 chain 2: -62 chain 3: -69 chain 4: -65
+scb rssi window: -62 rssi chain window -- chain1: -63 chain 2: -62 chain 3: -69 chain 4: -65
+scb rssi window: -61 rssi chain window -- chain1: -62 chain 2: -61 chain 3: -68 chain 4: -63
+scb rssi window: -64 rssi chain window -- chain1: -65 chain 2: -64 chain 3: -69 chain 4: -66
+link: 1-----------------------------------
+scb tx packets: 0
+scb tx failed packets: 0
+scb tx total packets: 0
+scb rx packets: 0
+link: 2-----------------------------------
+scb tx packets: 0
+scb tx failed packets: 0
+scb tx total packets: 0
+scb rx packets: 0
+link: 3-----------------------------------
+scb tx packets: 0
+scb tx failed packets: 0
+scb tx total packets: 0
+scb rx packets: 0SCB MAC Address: 6A:1D:B0:B1:48:7B AID: 552
 link: 0-----------------------------------
 scb tx packets: 0
 scb tx failed packets: 0
@@ -122,26 +146,26 @@ scb rx packets: 0
 
     after_text = """
     
-SCB MAC Address: 6A:1D:B0:B1:48:7B AID: 552
+SCB MAC Address: 2A:59:23:CA:EA:FA AID: 552
 link: 0-----------------------------------
-scb tx packets: 0
+scb tx packets: 6982
 scb tx failed packets: 0
-scb tx total packets: 0
-scb rx packets: 0
+scb tx total packets: 8059
+scb rx packets: 9512
+scb rssi window: -62 rssi chain window -- chain1: -63 chain 2: -61 chain 3: -67 chain 4: -66
+scb rssi window: -62 rssi chain window -- chain1: -63 chain 2: -61 chain 3: -67 chain 4: -67
+scb rssi window: -60 rssi chain window -- chain1: -61 chain 2: -59 chain 3: -66 chain 4: -65
+scb rssi window: -62 rssi chain window -- chain1: -63 chain 2: -61 chain 3: -67 chain 4: -66
 link: 1-----------------------------------
 scb tx packets: 0
 scb tx failed packets: 0
 scb tx total packets: 0
 scb rx packets: 0
 link: 2-----------------------------------
-scb tx packets: 174
+scb tx packets: 0
 scb tx failed packets: 0
-scb tx total packets: 315
-scb rx packets: 2269
-scb rssi window: 0 rssi chain window -- chain1: 0 chain 2: 0 chain 3: 0 chain 4: 0
-scb rssi window: 0 rssi chain window -- chain1: 0 chain 2: 0 chain 3: 0 chain 4: 0
-scb rssi window: 0 rssi chain window -- chain1: 0 chain 2: 0 chain 3: 0 chain 4: 0
-scb rssi window: 0 rssi chain window -- chain1: 0 chain 2: 0 chain 3: 0 chain 4: 0
+scb tx total packets: 0
+scb rx packets: 0
 link: 3-----------------------------------
 scb tx packets: 0
 scb tx failed packets: 0

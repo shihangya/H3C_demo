@@ -41,6 +41,7 @@ def set_service_template(device_name,num):
         dut.send(f"""
                     wlan service-template {b}
                     ssid {b}
+                    vlan 777
                     mlo en
                     akm mode psk
                     preshared-key pass-phrase simple 123123123
@@ -52,8 +53,26 @@ def set_service_template(device_name,num):
                     service-template enable
                 """)
         i = i + 1
-    
-    
+
+
+def set_service_clear_template(device_name, num):
+    """
+    创建服务模版
+    """
+    dut = connect(device_name)
+    a = "C"
+    for i in range(num):
+        b = a + str(i)
+        # 创建服务模版
+        dut.send(f"""
+                    wlan service-template {b}
+                    ssid {b}
+                    vlan 777
+                    service-template enable
+                """)
+        i = i + 1
+
+
 def set_radio_service_template(device_name,num):
     """
     radio 下绑定服务模版
