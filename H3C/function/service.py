@@ -41,7 +41,8 @@ def set_service_template(device_name,num):
         dut.send(f"""
                     wlan service-template {b}
                     ssid {b}
-                    mlo en
+                    vlan 777
+                    
                     akm mode psk
                     preshared-key pass-phrase simple 123123123
                     cipher-suite ccmp
