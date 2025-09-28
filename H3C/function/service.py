@@ -42,11 +42,7 @@ def set_service_template(device_name,num):
                     wlan service-template {b}
                     ssid {b}
                     vlan 777
-<<<<<<< HEAD
-                    mlo en
-=======
-                    
->>>>>>> 72889fabff1d03c821a7568ae5507922b9acee0c
+
                     akm mode psk
                     preshared-key pass-phrase simple 123123123
                     cipher-suite ccmp
