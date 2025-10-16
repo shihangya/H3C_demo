@@ -1,11 +1,12 @@
 from function.service import *
 
-AC = connect("wx3510x")
+AC = connect("wwx5580H_copy")
 
 # moban1 = ("hsh", "hsh1", "wpa2-persion", "wpa3-qiye", "66", "mac")
-moban1 = ("g0", "g1", "g2", "g3", "g4", "g5", "g6", "g7", "g8", "g9", "g10", "g11", "g12", "g13", "g14")
+moban1 = ("g0", "g1", "g2", "g3", "g4", "g5", "g6", "g7", "g8", "g9", "g10", "g11", "g12", "g13", "g14", "g15")
 moban2 = ("g14", "g13", "g12", "g11", "g10", "g9", "g8", "g7", "g6", "g5", "g4", "g3", "g2", "g1", "g0")
 moban3 = ("g7", "g8", "g9", "g10", "g11", "g0", "g1", "g2", "g3", "g4", "g5", "g6", "g12", "g13", "g14")
+
 moban4 = ("C1", "C2", "C3", "C4", "C5", "C6", "C7", "C8", "C9", "C10", "C11", "C12", "C13", "C14")
 a = 1  # 1:绑定  2:取消绑定
 radio = 1  # 选择使用那个 radio
