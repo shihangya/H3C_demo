@@ -1,0 +1,909 @@
+no cmdline args
+start...
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.3.41/16 brd 77.88.255.255 scope global 
+16
+ 77.88.3.41
+该设备ZY22GCD32Q 获取到 IP:  77.88.3.41
+WiFi连接结果: True
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.3.43/16 brd 77.88.255.255 scope global 
+16
+ 77.88.3.43
+该设备ZY22GCD32Q 获取到 IP:  77.88.3.43
+WiFi连接结果: True
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.3.49/16 brd 77.88.255.255 scope global 
+16
+ 77.88.3.49
+该设备ZY22GCD32Q 获取到 IP:  77.88.3.49
+WiFi连接结果: True
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.3.53/16 brd 77.88.255.255 scope global 
+16
+ 77.88.3.53
+该设备ZY22GCD32Q 获取到 IP:  77.88.3.53
+WiFi连接结果: True
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.3.57/16 brd 77.88.255.255 scope global 
+16
+ 77.88.3.57
+该设备ZY22GCD32Q 获取到 IP:  77.88.3.57
+WiFi连接结果: True
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.3.59/16 brd 77.88.255.255 scope global 
+16
+ 77.88.3.59
+该设备ZY22GCD32Q 获取到 IP:  77.88.3.59
+WiFi连接结果: True
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.3.61/16 brd 77.88.255.255 scope global 
+16
+ 77.88.3.61
+该设备ZY22GCD32Q 获取到 IP:  77.88.3.61
+WiFi连接结果: True
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.3.62/16 brd 77.88.255.255 scope global 
+16
+ 77.88.3.62
+该设备ZY22GCD32Q 获取到 IP:  77.88.3.62
+WiFi连接结果: True
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.3.69/16 brd 77.88.255.255 scope global 
+16
+ 77.88.3.69
+该设备ZY22GCD32Q 获取到 IP:  77.88.3.69
+WiFi连接结果: True
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.3.73/16 brd 77.88.255.255 scope global 
+16
+ 77.88.3.73
+该设备ZY22GCD32Q 获取到 IP:  77.88.3.73
+WiFi连接结果: True
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.3.75/16 brd 77.88.255.255 scope global 
+16
+ 77.88.3.75
+该设备ZY22GCD32Q 获取到 IP:  77.88.3.75
+WiFi连接结果: True
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.3.82/16 brd 77.88.255.255 scope global 
+16
+ 77.88.3.82
+该设备ZY22GCD32Q 获取到 IP:  77.88.3.82
+WiFi连接结果: True
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.3.84/16 brd 77.88.255.255 scope global 
+16
+ 77.88.3.84
+该设备ZY22GCD32Q 获取到 IP:  77.88.3.84
+WiFi连接结果: True
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.3.86/16 brd 77.88.255.255 scope global 
+16
+ 77.88.3.86
+该设备ZY22GCD32Q 获取到 IP:  77.88.3.86
+WiFi连接结果: True
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.3.90/16 brd 77.88.255.255 scope global 
+16
+ 77.88.3.90
+该设备ZY22GCD32Q 获取到 IP:  77.88.3.90
+WiFi连接结果: True
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.3.99/16 brd 77.88.255.255 scope global 
+16
+ 77.88.3.99
+该设备ZY22GCD32Q 获取到 IP:  77.88.3.99
+WiFi连接结果: True
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.3.114/16 brd 77.88.255.255 scope global 
+16
+ 77.88.3.114
+该设备ZY22GCD32Q 获取到 IP:  77.88.3.114
+WiFi连接结果: True
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 145.255.0.16/16 brd 145.255.255.255 scope global 
+16
+ 145.255.0.16
+该设备ZY22GCD32Q 获取到 IP:  145.255.0.16
+WiFi连接结果: True
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 145.255.0.16/16 brd 145.255.255.255 scope global 
+16
+ 145.255.0.16
+该设备ZY22GCD32Q 获取到 IP:  145.255.0.16
+WiFi连接结果: True
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 145.255.0.16/16 brd 145.255.255.255 scope global 
+16
+ 145.255.0.16
+该设备ZY22GCD32Q 获取到 IP:  145.255.0.16
+WiFi连接结果: True
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+ZY22GCD32Q IP
+该设备ZY22GCD32Q 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击WIFI加入网络\\tpl1761704101396.png) not found in screen'
+执行命令: adb -s ZY22GCD32Q shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+ZY22GCD32Q IP
+ZY22GCD32Q IP

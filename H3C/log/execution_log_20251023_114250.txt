@@ -1,0 +1,5 @@
+1、AP入组C,2025-10-23 11:42:51
+2、重新使能服务模版,2025-10-23 11:42:51
+3、终端加入,2025-10-23 11:42:51
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP

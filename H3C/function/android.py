@@ -1478,6 +1478,150 @@ def single_device_ping(serial_id, ip, count=4):
         return f"False: {str(e)}"
 
 
+def forget_wifi_network(serial_id, ssid):
+    """
+    忘记（删除）已保存的WiFi网络配置
+
+    参数:
+        serial_id (str): Android设备的序列号
+        ssid (str): 要忘记的WiFi网络名称
+
+    返回:
+        str: 成功返回"True"，失败返回错误信息
+    """
+    try:
+        # 方法1: 使用ADB命令直接删除网络配置（适用于Android 10及以上版本）
+        cmd = f'adb -s {serial_id} shell cmd wifi remove-network "{ssid}"'
+        result = subprocess.run(cmd, shell=True, capture_output=True, text=True)
+
+        if result.returncode == 0:
+            print(f"成功忘记WiFi网络: {ssid}")
+            return "True"
+        else:
+            # 如果上述命令失败，尝试使用UI点击方式
+            print(f"ADB命令方式失败，尝试使用UI点击方式: {result.stderr}")
+            return click_close_wifi(serial_id, ssid)
+
+    except Exception as e:
+        # 如果ADB命令方式不可用，回退到UI点击方式
+        print(f"使用ADB命令忘记WiFi失败: {e}，尝试使用UI点击方式")
+        try:
+            return click_close_wifi(serial_id, ssid)
+        except Exception as ui_error:
+            return f"False: 无法忘记WiFi网络 {ssid}，错误: {str(ui_error)}"
+
+
+def forget_wifi_via_ui(serial_id, ssid):
+    """
+    通过UI操作方式忘记WiFi网络
+
+    参数:
+        serial_id (str): 设备序列号
+        ssid (str): 要忘记的WiFi名称
+
+    返回:
+        str: 成功返回"True"，失败返回错误信息
+    """
+    try:
+        import uiautomator2 as u2
+
+        # 检查设备连接状态
+        devices = devices_serial_id()
+        if not devices or serial_id not in devices:
+            return f"False: 设备 {serial_id} 未连接或不可用"
+
+        # 唤醒设备
+        device_check_and_wake(serial_id)
+
+        # 连接uiautomator2
+        d = u2.connect(serial_id)
+        d.uiautomator.start()
+        time.sleep(2)
+
+        # 启动设置应用
+        try:
+            d.app_start("com.android.settings", stop=True)
+        except:
+            # 尝试不同的设置包名
+            try:
+                d.app_start("com.android.settings", ".Settings", stop=True)
+            except:
+                d.app_start("com.android.settings")
+
+        time.sleep(3)
+
+        # 寻找并点击WiFi/WLAN设置
+        wifi_texts = ["Wi-Fi", "WLAN", "无线网络", "WiFi"]
+        wifi_found = False
+
+        for wifi_text in wifi_texts:
+            if d(resourceId="android:id/title", text=wifi_text).exists():
+                d(resourceId="android:id/title", text=wifi_text).click()
+                wifi_found = True
+                break
+
+        if not wifi_found:
+            return "False: 未找到WiFi设置选项"
+
+        time.sleep(3)
+
+        # 查找目标WiFi网络
+        max_scrolls = 5
+        found = False
+
+        for i in range(max_scrolls):
+            if d(resourceId="android:id/title", text=ssid).exists():
+                # 点击WiFi网络项
+                d(resourceId="android:id/title", text=ssid).click()
+                time.sleep(2)
+
+                # 查找"忘记网络"或"删除网络"按钮
+                forget_texts = ["忘记网络", "删除网络", "Forget", "Remove network"]
+                forget_found = False
+
+                for forget_text in forget_texts:
+                    if d(text=forget_text).exists():
+                        d(text=forget_text).click()
+                        forget_found = True
+                        break
+
+                if not forget_found:
+                    # 尝试通过菜单方式
+                    if d(resourceId="android:id/icon").exists():
+                        d(resourceId="android:id/icon").click()
+                        time.sleep(1)
+                        for forget_text in forget_texts:
+                            if d(text=forget_text).exists():
+                                d(text=forget_text).click()
+                                forget_found = True
+                                break
+
+                if forget_found:
+                    # 确认操作
+                    time.sleep(1)
+                    if d(resourceId="android:id/button1").exists():
+                        d(resourceId="android:id/button1").click()
+
+                    found = True
+                    break
+            else:
+                # 向下滚动查找
+                d.swipe(0.5, 0.8, 0.5, 0.2)
+                time.sleep(1)
+
+        # 关闭设置应用
+        d.app_stop("com.android.settings")
+
+        if found:
+            return "True"
+        else:
+            return f"False: 未找到WiFi网络 {ssid}"
+
+    except Exception as e:
+        return f"False: 操作失败 {str(e)}"
+
+
+
 if __name__ == '__main__':
   
     # udid = "Z5Y5KZY9LZRS69JF"

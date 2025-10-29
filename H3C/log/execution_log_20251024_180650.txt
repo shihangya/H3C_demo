@@ -1,0 +1,56 @@
+1、AP入组C,2025-10-24 18:06:51
+2、重新使能服务模版,2025-10-24 18:06:51
+3、终端加入,2025-10-24 18:06:51
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123"
+10ACBN2A22000UH IP
+10ACBN2A22000UH IP
+10ACBN2A22000UH IP
+10ACBN2A22000UH IP
+10ACBN2A22000UH IP
+该设备10ACBN2A22000UH 未成功连接
+4、检查终端是否加入MLO,2025-10-24 18:06:51
+5、去使能MLO,2025-10-24 18:06:51
+6、AP入组D,2025-10-24 18:06:51
+7、重新使能服务模版,2025-10-24 18:06:51
+8、终端加入,2025-10-24 18:06:51
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123"
+10ACBN2A22000UH IP
+10ACBN2A22000UH IP
+10ACBN2A22000UH IP
+10ACBN2A22000UH IP
+10ACBN2A22000UH IP
+该设备10ACBN2A22000UH 未成功连接
+9、检查终端是否加入MLO,2025-10-24 18:06:51
+10、使能MLO,2025-10-24 18:06:51
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-24 18:06:51
+12、AP入组C,2025-10-24 18:06:51
+13、服务模版绑定至AP视图，占最后一位,2025-10-24 18:06:51
+14、终端加入,2025-10-24 18:06:51
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123"
+10ACBN2A22000UH IP
+10ACBN2A22000UH IP
+10ACBN2A22000UH IP
+10ACBN2A22000UH IP

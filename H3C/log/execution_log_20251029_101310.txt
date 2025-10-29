@@ -1,0 +1,4 @@
+no cmdline args
+installed version is None, installer version is 68. force_reinstall=False
+start...
+UI操作异常: Cannot find any visible node by query UIObjectProxy of "设置"

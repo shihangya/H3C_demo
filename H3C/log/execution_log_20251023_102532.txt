@@ -1,0 +1,97 @@
+1、删掉服务模版
+2、删掉MLO
+3、绑定服务模版
+4、终端加入
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+5、删掉服务模版
+6、开启MLO
+7、绑定服务模版
+8、终端加入
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、radio down
+10、radio up
+11、终端加入
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+1、删掉服务模版
+2、删掉MLO
+3、绑定服务模版
+4、终端加入
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+5、删掉服务模版
+6、开启MLO
+7、绑定服务模版
+8、终端加入
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、radio down
+10、radio up
+11、终端加入
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+1、删掉服务模版
+2、删掉MLO
+3、绑定服务模版
+4、终端加入
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+5、删掉服务模版
+6、开启MLO
+7、绑定服务模版
+8、终端加入
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、radio down
+10、radio up
+11、终端加入
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP

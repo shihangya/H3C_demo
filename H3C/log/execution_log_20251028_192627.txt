@@ -1,0 +1,9 @@
+no cmdline args
+start...
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+10ACBN2A22000UH IP
+10ACBN2A22000UH IP
+10ACBN2A22000UH IP
+10ACBN2A22000UH IP
+该设备10ACBN2A22000UH 未成功连接

@@ -3,13 +3,9 @@ from function.miji import *
 
 
 while True:
-    # connect_to_wifi("Z5Y5KZY9LZRS69JF","guajiceshi","123123123")
 
-    click_to_connect_wifi("92232c6b", "00*hnp-wa7638cloud*", "425","1304")
-    single_device_ping("92232c6b", "77.88.0.6")
-    click_to_connect_wifi("92232c6b", "00*h2e-wa7638cloud*", "425","1304")
-    single_device_ping("92232c6b", "77.88.0.6")
-    time.sleep(3)
+    connect_to_wifi("34266887280024F", "00**d029*二轮", "123123123")
+    connect_to_wifi("Z5Y5KZY9LZRS69JF", "00**d029*二轮", "123123123")
 
-# multi_all("2580x-owe")
+
 

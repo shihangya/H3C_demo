@@ -1,6 +1,6 @@
 from function.service import *
 
-AC = connect("wwx5580H_copy")
+AC = connect("2520x")
 
 # moban1 = ("hsh", "hsh1", "wpa2-persion", "wpa3-qiye", "66", "mac")
 moban1 = ("g0", "g1", "g2", "g3", "g4", "g5", "g6", "g7", "g8", "g9", "g10", "g11", "g12", "g13", "g14", "g15")

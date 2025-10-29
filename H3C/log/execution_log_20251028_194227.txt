@@ -1,0 +1,318 @@
+no cmdline args
+start...
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+10ACBN2A22000UH IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.112/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.112
+该设备10ACBN2A22000UH 获取到 IP:  77.88.0.112
+WiFi连接结果: True
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.113/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.113
+该设备10ACBN2A22000UH 获取到 IP:  77.88.0.113
+WiFi连接结果: True
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.114/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.114
+该设备10ACBN2A22000UH 获取到 IP:  77.88.0.114
+WiFi连接结果: True
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.115/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.115
+该设备10ACBN2A22000UH 获取到 IP:  77.88.0.115
+WiFi连接结果: True
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.116/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.116
+该设备10ACBN2A22000UH 获取到 IP:  77.88.0.116
+WiFi连接结果: True
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.117/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.117
+该设备10ACBN2A22000UH 获取到 IP:  77.88.0.117
+WiFi连接结果: True
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.118/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.118
+该设备10ACBN2A22000UH 获取到 IP:  77.88.0.118
+WiFi连接结果: True
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.119/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.119
+该设备10ACBN2A22000UH 获取到 IP:  77.88.0.119
+WiFi连接结果: True
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.120/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.120
+该设备10ACBN2A22000UH 获取到 IP:  77.88.0.120
+WiFi连接结果: True
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.121/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.121
+该设备10ACBN2A22000UH 获取到 IP:  77.88.0.121
+WiFi连接结果: True
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.122/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.122
+该设备10ACBN2A22000UH 获取到 IP:  77.88.0.122
+WiFi连接结果: True
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.123/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.123
+该设备10ACBN2A22000UH 获取到 IP:  77.88.0.123
+WiFi连接结果: True
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.124/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.124
+该设备10ACBN2A22000UH 获取到 IP:  77.88.0.124
+WiFi连接结果: True
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.125/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.125
+该设备10ACBN2A22000UH 获取到 IP:  77.88.0.125
+WiFi连接结果: True
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.126/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.126
+该设备10ACBN2A22000UH 获取到 IP:  77.88.0.126
+WiFi连接结果: True
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.127/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.127
+该设备10ACBN2A22000UH 获取到 IP:  77.88.0.127
+WiFi连接结果: True
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.128/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.128
+该设备10ACBN2A22000UH 获取到 IP:  77.88.0.128
+WiFi连接结果: True
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.129/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.129
+该设备10ACBN2A22000UH 获取到 IP:  77.88.0.129
+WiFi连接结果: True
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.130/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.130
+该设备10ACBN2A22000UH 获取到 IP:  77.88.0.130
+WiFi连接结果: True
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.131/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.131
+该设备10ACBN2A22000UH 获取到 IP:  77.88.0.131
+WiFi连接结果: True
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.132/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.132
+该设备10ACBN2A22000UH 获取到 IP:  77.88.0.132
+WiFi连接结果: True
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.133/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.133
+该设备10ACBN2A22000UH 获取到 IP:  77.88.0.133
+WiFi连接结果: True
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.134/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.134
+该设备10ACBN2A22000UH 获取到 IP:  77.88.0.134
+WiFi连接结果: True
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.135/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.135
+该设备10ACBN2A22000UH 获取到 IP:  77.88.0.135
+WiFi连接结果: True
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.136/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.136
+该设备10ACBN2A22000UH 获取到 IP:  77.88.0.136
+WiFi连接结果: True
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.137/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.137
+该设备10ACBN2A22000UH 获取到 IP:  77.88.0.137
+WiFi连接结果: True
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.138/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.138
+该设备10ACBN2A22000UH 获取到 IP:  77.88.0.138
+WiFi连接结果: True
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.139/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.139
+该设备10ACBN2A22000UH 获取到 IP:  77.88.0.139
+WiFi连接结果: True
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.140/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.140
+该设备10ACBN2A22000UH 获取到 IP:  77.88.0.140
+WiFi连接结果: True
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.141/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.141
+该设备10ACBN2A22000UH 获取到 IP:  77.88.0.141
+WiFi连接结果: True
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.142/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.142
+该设备10ACBN2A22000UH 获取到 IP:  77.88.0.142
+WiFi连接结果: True
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.143/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.143
+该设备10ACBN2A22000UH 获取到 IP:  77.88.0.143
+WiFi连接结果: True
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.144/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.144
+该设备10ACBN2A22000UH 获取到 IP:  77.88.0.144
+WiFi连接结果: True
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.145/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.145
+该设备10ACBN2A22000UH 获取到 IP:  77.88.0.145
+WiFi连接结果: True
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.146/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.146
+该设备10ACBN2A22000UH 获取到 IP:  77.88.0.146
+WiFi连接结果: True
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.147/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.147
+该设备10ACBN2A22000UH 获取到 IP:  77.88.0.147
+WiFi连接结果: True
+[pocoservice.apk] stdout: b'\r\ncom.netease.open.pocoservice.InstrumentedTestAsLauncher:INSTRUMENTATION_RESULT: shortMsg=Process crashed.\r\nINSTRUMENTATION_CODE: 0\r\n'
+[pocoservice.apk] stderr: b''
+still waiting for uiautomation ready.
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.148/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.148
+该设备10ACBN2A22000UH 获取到 IP:  77.88.0.148
+WiFi连接结果: True
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.149/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.149
+该设备10ACBN2A22000UH 获取到 IP:  77.88.0.149
+WiFi连接结果: True
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.150/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.150
+该设备10ACBN2A22000UH 获取到 IP:  77.88.0.150
+WiFi连接结果: True

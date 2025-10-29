@@ -31,9 +31,9 @@ def CheckApOnline(access_name,ip_address):
                               cmd=Scmd,
                               expect=['5 packet(s) transmitted, 5 packet(s) received, 0.0% packet loss'],
                               expect_count=1,
-                              stop_max_attempt=3,
+                              stop_max_attempt=2,
                               relationship='and',
-                              wait_fixed=3
+                              wait_fixed=2
                               )
 
     if result:

@@ -1,0 +1,4345 @@
+1、AP入组C,2025-10-16 10:41:47
+2、重新使能服务模版,2025-10-16 10:41:47
+3、终端加入,2025-10-16 10:41:47
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 10:41:47
+5、去使能MLO,2025-10-16 10:41:47
+6、AP入组D,2025-10-16 10:41:47
+7、重新使能服务模版,2025-10-16 10:41:47
+8、终端加入,2025-10-16 10:41:47
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 10:41:47
+10、使能MLO,2025-10-16 10:41:47
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 10:41:47
+12、AP入组C,2025-10-16 10:41:47
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 10:41:47
+14、终端加入,2025-10-16 10:41:47
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 10:41:47
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 10:41:47
+17、终端加入,2025-10-16 10:41:47
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 10:41:47
+AP在线
+1、AP入组C,2025-10-16 10:44:04
+2、重新使能服务模版,2025-10-16 10:44:04
+3、终端加入,2025-10-16 10:44:04
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 10:44:04
+5、去使能MLO,2025-10-16 10:44:04
+6、AP入组D,2025-10-16 10:44:04
+7、重新使能服务模版,2025-10-16 10:44:04
+8、终端加入,2025-10-16 10:44:04
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 10:44:04
+10、使能MLO,2025-10-16 10:44:04
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 10:44:04
+12、AP入组C,2025-10-16 10:44:04
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 10:44:04
+14、终端加入,2025-10-16 10:44:04
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 10:44:04
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 10:44:04
+17、终端加入,2025-10-16 10:44:04
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 10:44:04
+AP在线
+1、AP入组C,2025-10-16 10:46:16
+2、重新使能服务模版,2025-10-16 10:46:16
+3、终端加入,2025-10-16 10:46:16
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 10:46:16
+5、去使能MLO,2025-10-16 10:46:16
+6、AP入组D,2025-10-16 10:46:16
+7、重新使能服务模版,2025-10-16 10:46:16
+8、终端加入,2025-10-16 10:46:16
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 10:46:16
+10、使能MLO,2025-10-16 10:46:16
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 10:46:16
+12、AP入组C,2025-10-16 10:46:16
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 10:46:16
+14、终端加入,2025-10-16 10:46:16
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 10:46:16
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 10:46:16
+17、终端加入,2025-10-16 10:46:16
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 10:46:16
+AP在线
+1、AP入组C,2025-10-16 10:48:27
+2、重新使能服务模版,2025-10-16 10:48:27
+3、终端加入,2025-10-16 10:48:27
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 10:48:27
+5、去使能MLO,2025-10-16 10:48:27
+6、AP入组D,2025-10-16 10:48:27
+7、重新使能服务模版,2025-10-16 10:48:27
+8、终端加入,2025-10-16 10:48:27
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 10:48:27
+10、使能MLO,2025-10-16 10:48:27
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 10:48:27
+12、AP入组C,2025-10-16 10:48:27
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 10:48:27
+14、终端加入,2025-10-16 10:48:27
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 10:48:27
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 10:48:27
+17、终端加入,2025-10-16 10:48:27
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 10:48:27
+AP在线
+1、AP入组C,2025-10-16 10:50:36
+2、重新使能服务模版,2025-10-16 10:50:36
+3、终端加入,2025-10-16 10:50:36
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 10:50:36
+5、去使能MLO,2025-10-16 10:50:36
+6、AP入组D,2025-10-16 10:50:36
+7、重新使能服务模版,2025-10-16 10:50:36
+8、终端加入,2025-10-16 10:50:36
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 10:50:36
+10、使能MLO,2025-10-16 10:50:36
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 10:50:36
+12、AP入组C,2025-10-16 10:50:36
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 10:50:36
+14、终端加入,2025-10-16 10:50:36
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+该设备Z5Y5KZY9LZRS69JF 未成功连接
+15、检查终端是否加入MLO,2025-10-16 10:50:36
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 10:50:36
+17、终端加入,2025-10-16 10:50:36
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 10:50:36
+AP在线
+1、AP入组C,2025-10-16 10:53:14
+2、重新使能服务模版,2025-10-16 10:53:14
+3、终端加入,2025-10-16 10:53:14
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 10:53:14
+5、去使能MLO,2025-10-16 10:53:14
+6、AP入组D,2025-10-16 10:53:14
+7、重新使能服务模版,2025-10-16 10:53:14
+8、终端加入,2025-10-16 10:53:14
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 10:53:14
+10、使能MLO,2025-10-16 10:53:14
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 10:53:14
+12、AP入组C,2025-10-16 10:53:14
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 10:53:14
+14、终端加入,2025-10-16 10:53:14
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 10:53:14
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 10:53:14
+17、终端加入,2025-10-16 10:53:14
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 10:53:14
+AP在线
+1、AP入组C,2025-10-16 10:55:23
+2、重新使能服务模版,2025-10-16 10:55:23
+3、终端加入,2025-10-16 10:55:23
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 10:55:23
+5、去使能MLO,2025-10-16 10:55:23
+6、AP入组D,2025-10-16 10:55:23
+7、重新使能服务模版,2025-10-16 10:55:23
+8、终端加入,2025-10-16 10:55:23
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 10:55:23
+10、使能MLO,2025-10-16 10:55:23
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 10:55:23
+12、AP入组C,2025-10-16 10:55:23
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 10:55:23
+14、终端加入,2025-10-16 10:55:23
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 10:55:23
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 10:55:23
+17、终端加入,2025-10-16 10:55:23
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 10:55:23
+AP在线
+1、AP入组C,2025-10-16 10:57:56
+2、重新使能服务模版,2025-10-16 10:57:56
+3、终端加入,2025-10-16 10:57:56
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 10:57:56
+5、去使能MLO,2025-10-16 10:57:56
+6、AP入组D,2025-10-16 10:57:56
+7、重新使能服务模版,2025-10-16 10:57:56
+8、终端加入,2025-10-16 10:57:56
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 10:57:56
+10、使能MLO,2025-10-16 10:57:56
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 10:57:56
+12、AP入组C,2025-10-16 10:57:56
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 10:57:56
+14、终端加入,2025-10-16 10:57:56
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 10:57:56
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 10:57:56
+17、终端加入,2025-10-16 10:57:56
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 10:57:56
+AP在线
+1、AP入组C,2025-10-16 11:00:13
+2、重新使能服务模版,2025-10-16 11:00:13
+3、终端加入,2025-10-16 11:00:13
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 11:00:13
+5、去使能MLO,2025-10-16 11:00:13
+6、AP入组D,2025-10-16 11:00:13
+7、重新使能服务模版,2025-10-16 11:00:13
+8、终端加入,2025-10-16 11:00:13
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 11:00:13
+10、使能MLO,2025-10-16 11:00:13
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 11:00:13
+12、AP入组C,2025-10-16 11:00:13
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 11:00:13
+14、终端加入,2025-10-16 11:00:13
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 11:00:13
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 11:00:13
+17、终端加入,2025-10-16 11:00:13
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 11:00:13
+AP在线
+1、AP入组C,2025-10-16 11:02:38
+2、重新使能服务模版,2025-10-16 11:02:38
+3、终端加入,2025-10-16 11:02:38
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 11:02:38
+5、去使能MLO,2025-10-16 11:02:38
+6、AP入组D,2025-10-16 11:02:38
+7、重新使能服务模版,2025-10-16 11:02:38
+8、终端加入,2025-10-16 11:02:38
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 11:02:38
+10、使能MLO,2025-10-16 11:02:38
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 11:02:38
+12、AP入组C,2025-10-16 11:02:38
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 11:02:38
+14、终端加入,2025-10-16 11:02:38
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 11:02:38
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 11:02:38
+17、终端加入,2025-10-16 11:02:38
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 11:02:38
+AP在线
+1、AP入组C,2025-10-16 11:05:03
+2、重新使能服务模版,2025-10-16 11:05:03
+3、终端加入,2025-10-16 11:05:03
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 11:05:03
+5、去使能MLO,2025-10-16 11:05:03
+6、AP入组D,2025-10-16 11:05:03
+7、重新使能服务模版,2025-10-16 11:05:03
+8、终端加入,2025-10-16 11:05:03
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 11:05:03
+10、使能MLO,2025-10-16 11:05:03
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 11:05:03
+12、AP入组C,2025-10-16 11:05:03
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 11:05:03
+14、终端加入,2025-10-16 11:05:03
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 11:05:03
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 11:05:03
+17、终端加入,2025-10-16 11:05:03
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 11:05:03
+AP在线
+1、AP入组C,2025-10-16 11:07:26
+2、重新使能服务模版,2025-10-16 11:07:26
+3、终端加入,2025-10-16 11:07:26
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.28/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.28
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.28
+4、检查终端是否加入MLO,2025-10-16 11:07:26
+5、去使能MLO,2025-10-16 11:07:26
+6、AP入组D,2025-10-16 11:07:26
+7、重新使能服务模版,2025-10-16 11:07:26
+8、终端加入,2025-10-16 11:07:26
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 11:07:26
+10、使能MLO,2025-10-16 11:07:26
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 11:07:26
+12、AP入组C,2025-10-16 11:07:26
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 11:07:26
+14、终端加入,2025-10-16 11:07:26
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 11:07:26
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 11:07:26
+17、终端加入,2025-10-16 11:07:26
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 11:07:26
+AP在线
+1、AP入组C,2025-10-16 11:09:56
+2、重新使能服务模版,2025-10-16 11:09:56
+3、终端加入,2025-10-16 11:09:56
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 11:09:56
+5、去使能MLO,2025-10-16 11:09:56
+6、AP入组D,2025-10-16 11:09:56
+7、重新使能服务模版,2025-10-16 11:09:56
+8、终端加入,2025-10-16 11:09:56
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 11:09:56
+10、使能MLO,2025-10-16 11:09:56
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 11:09:56
+12、AP入组C,2025-10-16 11:09:56
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 11:09:56
+14、终端加入,2025-10-16 11:09:56
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 11:09:56
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 11:09:56
+17、终端加入,2025-10-16 11:09:56
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 11:09:56
+AP在线
+1、AP入组C,2025-10-16 11:12:05
+2、重新使能服务模版,2025-10-16 11:12:05
+3、终端加入,2025-10-16 11:12:05
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 11:12:05
+5、去使能MLO,2025-10-16 11:12:05
+6、AP入组D,2025-10-16 11:12:05
+7、重新使能服务模版,2025-10-16 11:12:05
+8、终端加入,2025-10-16 11:12:05
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 11:12:05
+10、使能MLO,2025-10-16 11:12:05
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 11:12:05
+12、AP入组C,2025-10-16 11:12:05
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 11:12:05
+14、终端加入,2025-10-16 11:12:05
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 11:12:05
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 11:12:05
+17、终端加入,2025-10-16 11:12:05
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 11:12:05
+AP在线
+1、AP入组C,2025-10-16 11:14:31
+2、重新使能服务模版,2025-10-16 11:14:31
+3、终端加入,2025-10-16 11:14:31
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 11:14:31
+5、去使能MLO,2025-10-16 11:14:31
+6、AP入组D,2025-10-16 11:14:31
+7、重新使能服务模版,2025-10-16 11:14:31
+8、终端加入,2025-10-16 11:14:31
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 11:14:31
+10、使能MLO,2025-10-16 11:14:31
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 11:14:31
+12、AP入组C,2025-10-16 11:14:31
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 11:14:31
+14、终端加入,2025-10-16 11:14:31
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 11:14:31
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 11:14:31
+17、终端加入,2025-10-16 11:14:31
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 11:14:31
+AP在线
+1、AP入组C,2025-10-16 11:16:44
+2、重新使能服务模版,2025-10-16 11:16:44
+3、终端加入,2025-10-16 11:16:44
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 11:16:44
+5、去使能MLO,2025-10-16 11:16:44
+6、AP入组D,2025-10-16 11:16:44
+7、重新使能服务模版,2025-10-16 11:16:44
+8、终端加入,2025-10-16 11:16:44
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 11:16:44
+10、使能MLO,2025-10-16 11:16:44
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 11:16:44
+12、AP入组C,2025-10-16 11:16:44
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 11:16:44
+14、终端加入,2025-10-16 11:16:44
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 11:16:44
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 11:16:44
+17、终端加入,2025-10-16 11:16:44
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 11:16:44
+AP在线
+1、AP入组C,2025-10-16 11:18:48
+2、重新使能服务模版,2025-10-16 11:18:48
+3、终端加入,2025-10-16 11:18:48
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+该设备Z5Y5KZY9LZRS69JF 未成功连接
+4、检查终端是否加入MLO,2025-10-16 11:18:48
+5、去使能MLO,2025-10-16 11:18:48
+6、AP入组D,2025-10-16 11:18:48
+7、重新使能服务模版,2025-10-16 11:18:48
+8、终端加入,2025-10-16 11:18:48
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+该设备Z5Y5KZY9LZRS69JF 未成功连接
+9、检查终端是否加入MLO,2025-10-16 11:18:48
+10、使能MLO,2025-10-16 11:18:48
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 11:18:48
+12、AP入组C,2025-10-16 11:18:48
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 11:18:48
+14、终端加入,2025-10-16 11:18:48
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 11:18:48
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 11:18:48
+17、终端加入,2025-10-16 11:18:48
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 11:18:48
+AP在线
+1、AP入组C,2025-10-16 11:21:42
+2、重新使能服务模版,2025-10-16 11:21:42
+3、终端加入,2025-10-16 11:21:42
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 11:21:42
+5、去使能MLO,2025-10-16 11:21:42
+6、AP入组D,2025-10-16 11:21:42
+7、重新使能服务模版,2025-10-16 11:21:42
+8、终端加入,2025-10-16 11:21:42
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 11:21:42
+10、使能MLO,2025-10-16 11:21:42
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 11:21:42
+12、AP入组C,2025-10-16 11:21:42
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 11:21:42
+14、终端加入,2025-10-16 11:21:42
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 11:21:42
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 11:21:42
+17、终端加入,2025-10-16 11:21:42
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 11:21:42
+AP在线
+1、AP入组C,2025-10-16 11:24:27
+2、重新使能服务模版,2025-10-16 11:24:27
+3、终端加入,2025-10-16 11:24:27
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 11:24:27
+5、去使能MLO,2025-10-16 11:24:27
+6、AP入组D,2025-10-16 11:24:27
+7、重新使能服务模版,2025-10-16 11:24:27
+8、终端加入,2025-10-16 11:24:27
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 11:24:27
+10、使能MLO,2025-10-16 11:24:27
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 11:24:27
+12、AP入组C,2025-10-16 11:24:27
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 11:24:27
+14、终端加入,2025-10-16 11:24:27
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 11:24:27
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 11:24:27
+17、终端加入,2025-10-16 11:24:27
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 11:24:27
+AP在线
+1、AP入组C,2025-10-16 11:26:49
+2、重新使能服务模版,2025-10-16 11:26:49
+3、终端加入,2025-10-16 11:26:49
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 11:26:49
+5、去使能MLO,2025-10-16 11:26:49
+6、AP入组D,2025-10-16 11:26:49
+7、重新使能服务模版,2025-10-16 11:26:49
+8、终端加入,2025-10-16 11:26:49
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 11:26:49
+10、使能MLO,2025-10-16 11:26:49
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 11:26:49
+12、AP入组C,2025-10-16 11:26:49
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 11:26:49
+14、终端加入,2025-10-16 11:26:49
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 11:26:49
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 11:26:49
+17、终端加入,2025-10-16 11:26:49
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 11:26:49
+AP在线
+1、AP入组C,2025-10-16 11:28:46
+2、重新使能服务模版,2025-10-16 11:28:46
+3、终端加入,2025-10-16 11:28:46
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 11:28:46
+5、去使能MLO,2025-10-16 11:28:46
+6、AP入组D,2025-10-16 11:28:46
+7、重新使能服务模版,2025-10-16 11:28:46
+8、终端加入,2025-10-16 11:28:46
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 11:28:46
+10、使能MLO,2025-10-16 11:28:46
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 11:28:46
+12、AP入组C,2025-10-16 11:28:46
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 11:28:46
+14、终端加入,2025-10-16 11:28:46
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 11:28:46
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 11:28:46
+17、终端加入,2025-10-16 11:28:46
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 11:28:46
+AP在线
+1、AP入组C,2025-10-16 11:31:14
+2、重新使能服务模版,2025-10-16 11:31:14
+3、终端加入,2025-10-16 11:31:14
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 11:31:14
+5、去使能MLO,2025-10-16 11:31:14
+6、AP入组D,2025-10-16 11:31:14
+7、重新使能服务模版,2025-10-16 11:31:14
+8、终端加入,2025-10-16 11:31:14
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 11:31:14
+10、使能MLO,2025-10-16 11:31:14
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 11:31:14
+12、AP入组C,2025-10-16 11:31:14
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 11:31:14
+14、终端加入,2025-10-16 11:31:14
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 11:31:14
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 11:31:14
+17、终端加入,2025-10-16 11:31:14
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 11:31:14
+AP在线
+1、AP入组C,2025-10-16 11:33:09
+2、重新使能服务模版,2025-10-16 11:33:09
+3、终端加入,2025-10-16 11:33:09
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+该设备Z5Y5KZY9LZRS69JF 未成功连接
+4、检查终端是否加入MLO,2025-10-16 11:33:09
+5、去使能MLO,2025-10-16 11:33:09
+6、AP入组D,2025-10-16 11:33:09
+7、重新使能服务模版,2025-10-16 11:33:09
+8、终端加入,2025-10-16 11:33:09
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 11:33:09
+10、使能MLO,2025-10-16 11:33:09
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 11:33:09
+12、AP入组C,2025-10-16 11:33:09
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 11:33:09
+14、终端加入,2025-10-16 11:33:09
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 11:33:09
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 11:33:09
+17、终端加入,2025-10-16 11:33:09
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 11:33:09
+AP在线
+1、AP入组C,2025-10-16 11:35:40
+2、重新使能服务模版,2025-10-16 11:35:40
+3、终端加入,2025-10-16 11:35:40
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 11:35:40
+5、去使能MLO,2025-10-16 11:35:40
+6、AP入组D,2025-10-16 11:35:40
+7、重新使能服务模版,2025-10-16 11:35:40
+8、终端加入,2025-10-16 11:35:40
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 11:35:40
+10、使能MLO,2025-10-16 11:35:40
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 11:35:40
+12、AP入组C,2025-10-16 11:35:40
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 11:35:40
+14、终端加入,2025-10-16 11:35:40
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 11:35:40
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 11:35:40
+17、终端加入,2025-10-16 11:35:40
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 11:35:40
+AP在线
+1、AP入组C,2025-10-16 11:37:39
+2、重新使能服务模版,2025-10-16 11:37:39
+3、终端加入,2025-10-16 11:37:39
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 11:37:39
+5、去使能MLO,2025-10-16 11:37:39
+6、AP入组D,2025-10-16 11:37:39
+7、重新使能服务模版,2025-10-16 11:37:39
+8、终端加入,2025-10-16 11:37:39
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 11:37:39
+10、使能MLO,2025-10-16 11:37:39
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 11:37:39
+12、AP入组C,2025-10-16 11:37:39
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 11:37:39
+14、终端加入,2025-10-16 11:37:39
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 11:37:39
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 11:37:39
+17、终端加入,2025-10-16 11:37:39
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 11:37:39
+AP在线
+1、AP入组C,2025-10-16 11:39:56
+2、重新使能服务模版,2025-10-16 11:39:56
+3、终端加入,2025-10-16 11:39:56
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 11:39:56
+5、去使能MLO,2025-10-16 11:39:56
+6、AP入组D,2025-10-16 11:39:56
+7、重新使能服务模版,2025-10-16 11:39:56
+8、终端加入,2025-10-16 11:39:56
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 11:39:56
+10、使能MLO,2025-10-16 11:39:56
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 11:39:56
+12、AP入组C,2025-10-16 11:39:56
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 11:39:56
+14、终端加入,2025-10-16 11:39:56
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 11:39:56
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 11:39:56
+17、终端加入,2025-10-16 11:39:56
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 11:39:56
+AP在线
+1、AP入组C,2025-10-16 11:42:11
+2、重新使能服务模版,2025-10-16 11:42:11
+3、终端加入,2025-10-16 11:42:11
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 11:42:11
+5、去使能MLO,2025-10-16 11:42:11
+6、AP入组D,2025-10-16 11:42:11
+7、重新使能服务模版,2025-10-16 11:42:11
+8、终端加入,2025-10-16 11:42:11
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 11:42:11
+10、使能MLO,2025-10-16 11:42:11
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 11:42:11
+12、AP入组C,2025-10-16 11:42:11
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 11:42:11
+14、终端加入,2025-10-16 11:42:11
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 11:42:11
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 11:42:11
+17、终端加入,2025-10-16 11:42:11
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 11:42:11
+AP在线
+1、AP入组C,2025-10-16 11:44:00
+2、重新使能服务模版,2025-10-16 11:44:00
+3、终端加入,2025-10-16 11:44:00
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 11:44:00
+5、去使能MLO,2025-10-16 11:44:00
+6、AP入组D,2025-10-16 11:44:00
+7、重新使能服务模版,2025-10-16 11:44:00
+8、终端加入,2025-10-16 11:44:00
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 11:44:00
+10、使能MLO,2025-10-16 11:44:00
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 11:44:00
+12、AP入组C,2025-10-16 11:44:00
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 11:44:00
+14、终端加入,2025-10-16 11:44:00
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 11:44:00
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 11:44:00
+17、终端加入,2025-10-16 11:44:00
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 11:44:00
+AP在线
+1、AP入组C,2025-10-16 11:45:59
+2、重新使能服务模版,2025-10-16 11:45:59
+3、终端加入,2025-10-16 11:45:59
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 11:45:59
+5、去使能MLO,2025-10-16 11:45:59
+6、AP入组D,2025-10-16 11:45:59
+7、重新使能服务模版,2025-10-16 11:45:59
+8、终端加入,2025-10-16 11:45:59
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 11:45:59
+10、使能MLO,2025-10-16 11:45:59
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 11:45:59
+12、AP入组C,2025-10-16 11:45:59
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 11:45:59
+14、终端加入,2025-10-16 11:45:59
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 11:45:59
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 11:45:59
+17、终端加入,2025-10-16 11:45:59
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 11:45:59
+AP在线
+1、AP入组C,2025-10-16 11:48:23
+2、重新使能服务模版,2025-10-16 11:48:23
+3、终端加入,2025-10-16 11:48:23
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 11:48:23
+5、去使能MLO,2025-10-16 11:48:23
+6、AP入组D,2025-10-16 11:48:23
+7、重新使能服务模版,2025-10-16 11:48:23
+8、终端加入,2025-10-16 11:48:23
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 11:48:23
+10、使能MLO,2025-10-16 11:48:23
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 11:48:23
+12、AP入组C,2025-10-16 11:48:23
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 11:48:23
+14、终端加入,2025-10-16 11:48:23
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 11:48:23
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 11:48:23
+17、终端加入,2025-10-16 11:48:23
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 11:48:23
+AP在线
+1、AP入组C,2025-10-16 11:50:22
+2、重新使能服务模版,2025-10-16 11:50:22
+3、终端加入,2025-10-16 11:50:22
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 11:50:22
+5、去使能MLO,2025-10-16 11:50:22
+6、AP入组D,2025-10-16 11:50:22
+7、重新使能服务模版,2025-10-16 11:50:22
+8、终端加入,2025-10-16 11:50:22
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 11:50:22
+10、使能MLO,2025-10-16 11:50:22
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 11:50:22
+12、AP入组C,2025-10-16 11:50:22
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 11:50:22
+14、终端加入,2025-10-16 11:50:22
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 11:50:22
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 11:50:22
+17、终端加入,2025-10-16 11:50:22
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 11:50:22
+AP在线
+1、AP入组C,2025-10-16 11:52:28
+2、重新使能服务模版,2025-10-16 11:52:28
+3、终端加入,2025-10-16 11:52:28
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 11:52:28
+5、去使能MLO,2025-10-16 11:52:28
+6、AP入组D,2025-10-16 11:52:28
+7、重新使能服务模版,2025-10-16 11:52:28
+8、终端加入,2025-10-16 11:52:28
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 11:52:28
+10、使能MLO,2025-10-16 11:52:28
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 11:52:28
+12、AP入组C,2025-10-16 11:52:28
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 11:52:28
+14、终端加入,2025-10-16 11:52:28
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 11:52:28
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 11:52:28
+17、终端加入,2025-10-16 11:52:28
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 11:52:28
+AP在线
+1、AP入组C,2025-10-16 11:54:45
+2、重新使能服务模版,2025-10-16 11:54:45
+3、终端加入,2025-10-16 11:54:45
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 11:54:45
+5、去使能MLO,2025-10-16 11:54:45
+6、AP入组D,2025-10-16 11:54:45
+7、重新使能服务模版,2025-10-16 11:54:45
+8、终端加入,2025-10-16 11:54:45
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 11:54:45
+10、使能MLO,2025-10-16 11:54:45
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 11:54:45
+12、AP入组C,2025-10-16 11:54:45
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 11:54:45
+14、终端加入,2025-10-16 11:54:45
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 11:54:45
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 11:54:45
+17、终端加入,2025-10-16 11:54:45
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 11:54:45
+AP在线
+1、AP入组C,2025-10-16 11:56:46
+2、重新使能服务模版,2025-10-16 11:56:46
+3、终端加入,2025-10-16 11:56:46
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 11:56:46
+5、去使能MLO,2025-10-16 11:56:46
+6、AP入组D,2025-10-16 11:56:46
+7、重新使能服务模版,2025-10-16 11:56:46
+8、终端加入,2025-10-16 11:56:46
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 11:56:46
+10、使能MLO,2025-10-16 11:56:46
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 11:56:46
+12、AP入组C,2025-10-16 11:56:46
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 11:56:46
+14、终端加入,2025-10-16 11:56:46
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 11:56:46
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 11:56:46
+17、终端加入,2025-10-16 11:56:46
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 11:56:46
+AP在线
+1、AP入组C,2025-10-16 11:59:11
+2、重新使能服务模版,2025-10-16 11:59:11
+3、终端加入,2025-10-16 11:59:11
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 11:59:11
+5、去使能MLO,2025-10-16 11:59:11
+6、AP入组D,2025-10-16 11:59:11
+7、重新使能服务模版,2025-10-16 11:59:11
+8、终端加入,2025-10-16 11:59:11
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 11:59:11
+10、使能MLO,2025-10-16 11:59:11
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 11:59:11
+12、AP入组C,2025-10-16 11:59:11
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 11:59:11
+14、终端加入,2025-10-16 11:59:11
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 11:59:11
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 11:59:11
+17、终端加入,2025-10-16 11:59:11
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 11:59:11
+AP在线
+1、AP入组C,2025-10-16 12:01:49
+2、重新使能服务模版,2025-10-16 12:01:49
+3、终端加入,2025-10-16 12:01:49
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 12:01:49
+5、去使能MLO,2025-10-16 12:01:49
+6、AP入组D,2025-10-16 12:01:49
+7、重新使能服务模版,2025-10-16 12:01:49
+8、终端加入,2025-10-16 12:01:49
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 12:01:49
+10、使能MLO,2025-10-16 12:01:49
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 12:01:49
+12、AP入组C,2025-10-16 12:01:49
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 12:01:49
+14、终端加入,2025-10-16 12:01:49
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 12:01:49
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 12:01:49
+17、终端加入,2025-10-16 12:01:49
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+该设备Z5Y5KZY9LZRS69JF 未成功连接
+18、检查终端是否加入MLO,2025-10-16 12:01:49
+AP在线
+1、AP入组C,2025-10-16 12:04:34
+2、重新使能服务模版,2025-10-16 12:04:34
+3、终端加入,2025-10-16 12:04:34
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 12:04:34
+5、去使能MLO,2025-10-16 12:04:34
+6、AP入组D,2025-10-16 12:04:34
+7、重新使能服务模版,2025-10-16 12:04:34
+8、终端加入,2025-10-16 12:04:34
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 12:04:34
+10、使能MLO,2025-10-16 12:04:34
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 12:04:34
+12、AP入组C,2025-10-16 12:04:34
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 12:04:34
+14、终端加入,2025-10-16 12:04:34
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 12:04:34
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 12:04:34
+17、终端加入,2025-10-16 12:04:34
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 12:04:34
+AP在线
+1、AP入组C,2025-10-16 12:06:57
+2、重新使能服务模版,2025-10-16 12:06:57
+3、终端加入,2025-10-16 12:06:57
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 12:06:57
+5、去使能MLO,2025-10-16 12:06:57
+6、AP入组D,2025-10-16 12:06:57
+7、重新使能服务模版,2025-10-16 12:06:57
+8、终端加入,2025-10-16 12:06:57
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 12:06:57
+10、使能MLO,2025-10-16 12:06:57
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 12:06:57
+12、AP入组C,2025-10-16 12:06:57
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 12:06:57
+14、终端加入,2025-10-16 12:06:57
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 12:06:57
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 12:06:57
+17、终端加入,2025-10-16 12:06:57
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 12:06:57
+AP在线
+1、AP入组C,2025-10-16 12:09:18
+2、重新使能服务模版,2025-10-16 12:09:18
+3、终端加入,2025-10-16 12:09:18
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 12:09:18
+5、去使能MLO,2025-10-16 12:09:18
+6、AP入组D,2025-10-16 12:09:18
+7、重新使能服务模版,2025-10-16 12:09:18
+8、终端加入,2025-10-16 12:09:18
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 12:09:18
+10、使能MLO,2025-10-16 12:09:18
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 12:09:18
+12、AP入组C,2025-10-16 12:09:18
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 12:09:18
+14、终端加入,2025-10-16 12:09:18
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+该设备Z5Y5KZY9LZRS69JF 未成功连接
+15、检查终端是否加入MLO,2025-10-16 12:09:18
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 12:09:18
+17、终端加入,2025-10-16 12:09:18
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 12:09:18
+AP在线
+1、AP入组C,2025-10-16 12:12:02
+2、重新使能服务模版,2025-10-16 12:12:02
+3、终端加入,2025-10-16 12:12:02
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 12:12:02
+5、去使能MLO,2025-10-16 12:12:02
+6、AP入组D,2025-10-16 12:12:02
+7、重新使能服务模版,2025-10-16 12:12:02
+8、终端加入,2025-10-16 12:12:02
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 12:12:02
+10、使能MLO,2025-10-16 12:12:02
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 12:12:02
+12、AP入组C,2025-10-16 12:12:02
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 12:12:02
+14、终端加入,2025-10-16 12:12:02
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 12:12:02
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 12:12:02
+17、终端加入,2025-10-16 12:12:02
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 12:12:02
+AP在线
+1、AP入组C,2025-10-16 12:14:03
+2、重新使能服务模版,2025-10-16 12:14:03
+3、终端加入,2025-10-16 12:14:03
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 12:14:03
+5、去使能MLO,2025-10-16 12:14:03
+6、AP入组D,2025-10-16 12:14:03
+7、重新使能服务模版,2025-10-16 12:14:03
+8、终端加入,2025-10-16 12:14:03
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 12:14:03
+10、使能MLO,2025-10-16 12:14:03
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 12:14:03
+12、AP入组C,2025-10-16 12:14:03
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 12:14:03
+14、终端加入,2025-10-16 12:14:03
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 12:14:03
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 12:14:03
+17、终端加入,2025-10-16 12:14:03
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 12:14:03
+AP在线
+1、AP入组C,2025-10-16 12:16:07
+2、重新使能服务模版,2025-10-16 12:16:07
+3、终端加入,2025-10-16 12:16:07
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 12:16:07
+5、去使能MLO,2025-10-16 12:16:07
+6、AP入组D,2025-10-16 12:16:07
+7、重新使能服务模版,2025-10-16 12:16:07
+8、终端加入,2025-10-16 12:16:07
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 12:16:07
+10、使能MLO,2025-10-16 12:16:07
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 12:16:07
+12、AP入组C,2025-10-16 12:16:07
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 12:16:07
+14、终端加入,2025-10-16 12:16:07
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 12:16:07
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 12:16:07
+17、终端加入,2025-10-16 12:16:07
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 12:16:07
+AP在线
+1、AP入组C,2025-10-16 12:18:21
+2、重新使能服务模版,2025-10-16 12:18:21
+3、终端加入,2025-10-16 12:18:21
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 12:18:21
+5、去使能MLO,2025-10-16 12:18:21
+6、AP入组D,2025-10-16 12:18:21
+7、重新使能服务模版,2025-10-16 12:18:21
+8、终端加入,2025-10-16 12:18:21
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 12:18:21
+10、使能MLO,2025-10-16 12:18:21
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 12:18:21
+12、AP入组C,2025-10-16 12:18:21
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 12:18:21
+14、终端加入,2025-10-16 12:18:21
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 12:18:21
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 12:18:21
+17、终端加入,2025-10-16 12:18:21
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 12:18:21
+AP在线
+1、AP入组C,2025-10-16 12:20:36
+2、重新使能服务模版,2025-10-16 12:20:36
+3、终端加入,2025-10-16 12:20:36
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 12:20:36
+5、去使能MLO,2025-10-16 12:20:36
+6、AP入组D,2025-10-16 12:20:36
+7、重新使能服务模版,2025-10-16 12:20:36
+8、终端加入,2025-10-16 12:20:36
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 12:20:36
+10、使能MLO,2025-10-16 12:20:36
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 12:20:36
+12、AP入组C,2025-10-16 12:20:36
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 12:20:36
+14、终端加入,2025-10-16 12:20:36
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 12:20:36
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 12:20:36
+17、终端加入,2025-10-16 12:20:36
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 12:20:36
+AP在线
+1、AP入组C,2025-10-16 12:23:14
+2、重新使能服务模版,2025-10-16 12:23:14
+3、终端加入,2025-10-16 12:23:14
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+该设备Z5Y5KZY9LZRS69JF 未成功连接
+4、检查终端是否加入MLO,2025-10-16 12:23:14
+5、去使能MLO,2025-10-16 12:23:14
+6、AP入组D,2025-10-16 12:23:14
+7、重新使能服务模版,2025-10-16 12:23:14
+8、终端加入,2025-10-16 12:23:14
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 12:23:14
+10、使能MLO,2025-10-16 12:23:14
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 12:23:14
+12、AP入组C,2025-10-16 12:23:14
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 12:23:14
+14、终端加入,2025-10-16 12:23:14
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 12:23:14
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 12:23:14
+17、终端加入,2025-10-16 12:23:14
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 12:23:14
+AP在线
+1、AP入组C,2025-10-16 12:25:49
+2、重新使能服务模版,2025-10-16 12:25:49
+3、终端加入,2025-10-16 12:25:49
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 12:25:49
+5、去使能MLO,2025-10-16 12:25:49
+6、AP入组D,2025-10-16 12:25:49
+7、重新使能服务模版,2025-10-16 12:25:49
+8、终端加入,2025-10-16 12:25:49
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 12:25:49
+10、使能MLO,2025-10-16 12:25:49
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 12:25:49
+12、AP入组C,2025-10-16 12:25:49
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 12:25:49
+14、终端加入,2025-10-16 12:25:49
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 12:25:49
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 12:25:49
+17、终端加入,2025-10-16 12:25:49
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 12:25:49
+AP在线
+1、AP入组C,2025-10-16 12:27:48
+2、重新使能服务模版,2025-10-16 12:27:48
+3、终端加入,2025-10-16 12:27:48
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 12:27:48
+5、去使能MLO,2025-10-16 12:27:48
+6、AP入组D,2025-10-16 12:27:48
+7、重新使能服务模版,2025-10-16 12:27:48
+8、终端加入,2025-10-16 12:27:48
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 12:27:48
+10、使能MLO,2025-10-16 12:27:48
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 12:27:48
+12、AP入组C,2025-10-16 12:27:48
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 12:27:48
+14、终端加入,2025-10-16 12:27:48
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 12:27:48
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 12:27:48
+17、终端加入,2025-10-16 12:27:48
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 12:27:48
+AP在线
+1、AP入组C,2025-10-16 12:30:21
+2、重新使能服务模版,2025-10-16 12:30:21
+3、终端加入,2025-10-16 12:30:21
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 12:30:21
+5、去使能MLO,2025-10-16 12:30:21
+6、AP入组D,2025-10-16 12:30:21
+7、重新使能服务模版,2025-10-16 12:30:21
+8、终端加入,2025-10-16 12:30:21
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 12:30:21
+10、使能MLO,2025-10-16 12:30:21
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 12:30:21
+12、AP入组C,2025-10-16 12:30:21
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 12:30:21
+14、终端加入,2025-10-16 12:30:21
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 12:30:21
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 12:30:21
+17、终端加入,2025-10-16 12:30:21
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 12:30:21
+AP在线
+1、AP入组C,2025-10-16 12:32:29
+2、重新使能服务模版,2025-10-16 12:32:29
+3、终端加入,2025-10-16 12:32:29
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 12:32:29
+5、去使能MLO,2025-10-16 12:32:29
+6、AP入组D,2025-10-16 12:32:29
+7、重新使能服务模版,2025-10-16 12:32:29
+8、终端加入,2025-10-16 12:32:29
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 12:32:29
+10、使能MLO,2025-10-16 12:32:29
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 12:32:29
+12、AP入组C,2025-10-16 12:32:29
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 12:32:29
+14、终端加入,2025-10-16 12:32:29
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 12:32:29
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 12:32:29
+17、终端加入,2025-10-16 12:32:29
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 12:32:29
+AP在线
+1、AP入组C,2025-10-16 12:34:50
+2、重新使能服务模版,2025-10-16 12:34:50
+3、终端加入,2025-10-16 12:34:50
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 12:34:50
+5、去使能MLO,2025-10-16 12:34:50
+6、AP入组D,2025-10-16 12:34:50
+7、重新使能服务模版,2025-10-16 12:34:50
+8、终端加入,2025-10-16 12:34:50
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 12:34:50
+10、使能MLO,2025-10-16 12:34:50
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 12:34:50
+12、AP入组C,2025-10-16 12:34:50
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 12:34:50
+14、终端加入,2025-10-16 12:34:50
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 12:34:50
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 12:34:50
+17、终端加入,2025-10-16 12:34:50
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 12:34:50
+AP在线
+1、AP入组C,2025-10-16 12:36:59
+2、重新使能服务模版,2025-10-16 12:36:59
+3、终端加入,2025-10-16 12:36:59
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 12:36:59
+5、去使能MLO,2025-10-16 12:36:59
+6、AP入组D,2025-10-16 12:36:59
+7、重新使能服务模版,2025-10-16 12:36:59
+8、终端加入,2025-10-16 12:36:59
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 12:36:59
+10、使能MLO,2025-10-16 12:36:59
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 12:36:59
+12、AP入组C,2025-10-16 12:36:59
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 12:36:59
+14、终端加入,2025-10-16 12:36:59
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 12:36:59
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 12:36:59
+17、终端加入,2025-10-16 12:36:59
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 12:36:59
+AP在线
+1、AP入组C,2025-10-16 12:39:39
+2、重新使能服务模版,2025-10-16 12:39:39
+3、终端加入,2025-10-16 12:39:39
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 12:39:39
+5、去使能MLO,2025-10-16 12:39:39
+6、AP入组D,2025-10-16 12:39:39
+7、重新使能服务模版,2025-10-16 12:39:39
+8、终端加入,2025-10-16 12:39:39
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 12:39:39
+10、使能MLO,2025-10-16 12:39:39
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 12:39:39
+12、AP入组C,2025-10-16 12:39:39
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 12:39:39
+14、终端加入,2025-10-16 12:39:39
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 12:39:39
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 12:39:39
+17、终端加入,2025-10-16 12:39:39
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 12:39:39
+AP在线
+1、AP入组C,2025-10-16 12:41:47
+2、重新使能服务模版,2025-10-16 12:41:47
+3、终端加入,2025-10-16 12:41:47
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 12:41:47
+5、去使能MLO,2025-10-16 12:41:47
+6、AP入组D,2025-10-16 12:41:47
+7、重新使能服务模版,2025-10-16 12:41:47
+8、终端加入,2025-10-16 12:41:47
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 12:41:47
+10、使能MLO,2025-10-16 12:41:47
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 12:41:47
+12、AP入组C,2025-10-16 12:41:47
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 12:41:47
+14、终端加入,2025-10-16 12:41:47
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 12:41:47
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 12:41:47
+17、终端加入,2025-10-16 12:41:47
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 12:41:47
+AP在线
+1、AP入组C,2025-10-16 12:43:48
+2、重新使能服务模版,2025-10-16 12:43:48
+3、终端加入,2025-10-16 12:43:48
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 12:43:48
+5、去使能MLO,2025-10-16 12:43:48
+6、AP入组D,2025-10-16 12:43:48
+7、重新使能服务模版,2025-10-16 12:43:48
+8、终端加入,2025-10-16 12:43:48
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 12:43:48
+10、使能MLO,2025-10-16 12:43:48
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 12:43:48
+12、AP入组C,2025-10-16 12:43:48
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 12:43:48
+14、终端加入,2025-10-16 12:43:48
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 12:43:48
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 12:43:48
+17、终端加入,2025-10-16 12:43:48
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 12:43:48
+AP在线
+1、AP入组C,2025-10-16 12:46:02
+2、重新使能服务模版,2025-10-16 12:46:02
+3、终端加入,2025-10-16 12:46:02
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 12:46:02
+5、去使能MLO,2025-10-16 12:46:02
+6、AP入组D,2025-10-16 12:46:02
+7、重新使能服务模版,2025-10-16 12:46:02
+8、终端加入,2025-10-16 12:46:02
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 12:46:02
+10、使能MLO,2025-10-16 12:46:02
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 12:46:02
+12、AP入组C,2025-10-16 12:46:02
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 12:46:02
+14、终端加入,2025-10-16 12:46:02
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 12:46:02
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 12:46:02
+17、终端加入,2025-10-16 12:46:02
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 12:46:02
+AP在线
+1、AP入组C,2025-10-16 12:48:25
+2、重新使能服务模版,2025-10-16 12:48:25
+3、终端加入,2025-10-16 12:48:25
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 12:48:25
+5、去使能MLO,2025-10-16 12:48:25
+6、AP入组D,2025-10-16 12:48:25
+7、重新使能服务模版,2025-10-16 12:48:25
+8、终端加入,2025-10-16 12:48:25
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 12:48:25
+10、使能MLO,2025-10-16 12:48:25
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 12:48:25
+12、AP入组C,2025-10-16 12:48:25
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 12:48:25
+14、终端加入,2025-10-16 12:48:25
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 12:48:25
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 12:48:25
+17、终端加入,2025-10-16 12:48:25
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 12:48:25
+AP在线
+1、AP入组C,2025-10-16 12:50:31
+2、重新使能服务模版,2025-10-16 12:50:31
+3、终端加入,2025-10-16 12:50:31
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 12:50:31
+5、去使能MLO,2025-10-16 12:50:31
+6、AP入组D,2025-10-16 12:50:31
+7、重新使能服务模版,2025-10-16 12:50:31
+8、终端加入,2025-10-16 12:50:31
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 12:50:31
+10、使能MLO,2025-10-16 12:50:31
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 12:50:31
+12、AP入组C,2025-10-16 12:50:31
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 12:50:31
+14、终端加入,2025-10-16 12:50:31
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 12:50:31
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 12:50:31
+17、终端加入,2025-10-16 12:50:31
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 12:50:31
+AP在线
+1、AP入组C,2025-10-16 12:52:38
+2、重新使能服务模版,2025-10-16 12:52:38
+3、终端加入,2025-10-16 12:52:38
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 12:52:38
+5、去使能MLO,2025-10-16 12:52:38
+6、AP入组D,2025-10-16 12:52:38
+7、重新使能服务模版,2025-10-16 12:52:38
+8、终端加入,2025-10-16 12:52:38
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 12:52:38
+10、使能MLO,2025-10-16 12:52:38
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 12:52:38
+12、AP入组C,2025-10-16 12:52:38
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 12:52:38
+14、终端加入,2025-10-16 12:52:38
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 12:52:38
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 12:52:38
+17、终端加入,2025-10-16 12:52:38
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 12:52:38
+AP在线
+1、AP入组C,2025-10-16 12:54:54
+2、重新使能服务模版,2025-10-16 12:54:54
+3、终端加入,2025-10-16 12:54:54
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 12:54:54
+5、去使能MLO,2025-10-16 12:54:54
+6、AP入组D,2025-10-16 12:54:54
+7、重新使能服务模版,2025-10-16 12:54:54
+8、终端加入,2025-10-16 12:54:54
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 12:54:54
+10、使能MLO,2025-10-16 12:54:54
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 12:54:54
+12、AP入组C,2025-10-16 12:54:54
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 12:54:54
+14、终端加入,2025-10-16 12:54:54
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 12:54:54
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 12:54:54
+17、终端加入,2025-10-16 12:54:54
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 12:54:54
+AP在线
+1、AP入组C,2025-10-16 12:57:24
+2、重新使能服务模版,2025-10-16 12:57:24
+3、终端加入,2025-10-16 12:57:24
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 12:57:24
+5、去使能MLO,2025-10-16 12:57:24
+6、AP入组D,2025-10-16 12:57:24
+7、重新使能服务模版,2025-10-16 12:57:24
+8、终端加入,2025-10-16 12:57:24
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 12:57:24
+10、使能MLO,2025-10-16 12:57:24
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 12:57:24
+12、AP入组C,2025-10-16 12:57:24
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 12:57:24
+14、终端加入,2025-10-16 12:57:24
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 12:57:24
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 12:57:24
+17、终端加入,2025-10-16 12:57:24
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 12:57:24
+AP在线
+1、AP入组C,2025-10-16 12:59:32
+2、重新使能服务模版,2025-10-16 12:59:32
+3、终端加入,2025-10-16 12:59:32
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 12:59:32
+5、去使能MLO,2025-10-16 12:59:32
+6、AP入组D,2025-10-16 12:59:32
+7、重新使能服务模版,2025-10-16 12:59:32
+8、终端加入,2025-10-16 12:59:32
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 12:59:32
+10、使能MLO,2025-10-16 12:59:32
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 12:59:32
+12、AP入组C,2025-10-16 12:59:32
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 12:59:32
+14、终端加入,2025-10-16 12:59:32
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 12:59:32
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 12:59:32
+17、终端加入,2025-10-16 12:59:32
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 12:59:32
+AP在线
+1、AP入组C,2025-10-16 13:01:26
+2、重新使能服务模版,2025-10-16 13:01:26
+3、终端加入,2025-10-16 13:01:26
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 13:01:26
+5、去使能MLO,2025-10-16 13:01:26
+6、AP入组D,2025-10-16 13:01:26
+7、重新使能服务模版,2025-10-16 13:01:26
+8、终端加入,2025-10-16 13:01:26
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 13:01:26
+10、使能MLO,2025-10-16 13:01:26
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 13:01:26
+12、AP入组C,2025-10-16 13:01:26
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 13:01:26
+14、终端加入,2025-10-16 13:01:26
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 13:01:26
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 13:01:26
+17、终端加入,2025-10-16 13:01:26
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 13:01:26
+AP在线
+1、AP入组C,2025-10-16 13:03:42
+2、重新使能服务模版,2025-10-16 13:03:42
+3、终端加入,2025-10-16 13:03:42
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 13:03:42
+5、去使能MLO,2025-10-16 13:03:42
+6、AP入组D,2025-10-16 13:03:42
+7、重新使能服务模版,2025-10-16 13:03:42
+8、终端加入,2025-10-16 13:03:42
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 13:03:42
+10、使能MLO,2025-10-16 13:03:42
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 13:03:42
+12、AP入组C,2025-10-16 13:03:42
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 13:03:42
+14、终端加入,2025-10-16 13:03:42
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 13:03:42
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 13:03:42
+17、终端加入,2025-10-16 13:03:42
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 13:03:42
+AP在线
+1、AP入组C,2025-10-16 13:05:36
+2、重新使能服务模版,2025-10-16 13:05:36
+3、终端加入,2025-10-16 13:05:36
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 13:05:36
+5、去使能MLO,2025-10-16 13:05:36
+6、AP入组D,2025-10-16 13:05:36
+7、重新使能服务模版,2025-10-16 13:05:36
+8、终端加入,2025-10-16 13:05:36
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 13:05:36
+10、使能MLO,2025-10-16 13:05:36
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 13:05:36
+12、AP入组C,2025-10-16 13:05:36
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 13:05:36
+14、终端加入,2025-10-16 13:05:36
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 13:05:36
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 13:05:36
+17、终端加入,2025-10-16 13:05:36
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 13:05:36
+AP在线
+1、AP入组C,2025-10-16 13:07:32
+2、重新使能服务模版,2025-10-16 13:07:32
+3、终端加入,2025-10-16 13:07:32
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 13:07:32
+5、去使能MLO,2025-10-16 13:07:32
+6、AP入组D,2025-10-16 13:07:32
+7、重新使能服务模版,2025-10-16 13:07:32
+8、终端加入,2025-10-16 13:07:32
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 13:07:32
+10、使能MLO,2025-10-16 13:07:32
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 13:07:32
+12、AP入组C,2025-10-16 13:07:32
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 13:07:32
+14、终端加入,2025-10-16 13:07:32
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 13:07:32
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 13:07:32
+17、终端加入,2025-10-16 13:07:32
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 13:07:32
+AP在线
+1、AP入组C,2025-10-16 13:10:06
+2、重新使能服务模版,2025-10-16 13:10:06
+3、终端加入,2025-10-16 13:10:06
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 13:10:06
+5、去使能MLO,2025-10-16 13:10:06
+6、AP入组D,2025-10-16 13:10:06
+7、重新使能服务模版,2025-10-16 13:10:06
+8、终端加入,2025-10-16 13:10:06
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 13:10:06
+10、使能MLO,2025-10-16 13:10:06
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 13:10:06
+12、AP入组C,2025-10-16 13:10:06
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 13:10:06
+14、终端加入,2025-10-16 13:10:06
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 13:10:06
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 13:10:06
+17、终端加入,2025-10-16 13:10:06
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 13:10:06
+AP在线
+1、AP入组C,2025-10-16 13:12:07
+2、重新使能服务模版,2025-10-16 13:12:07
+3、终端加入,2025-10-16 13:12:07
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 13:12:07
+5、去使能MLO,2025-10-16 13:12:07
+6、AP入组D,2025-10-16 13:12:07
+7、重新使能服务模版,2025-10-16 13:12:07
+8、终端加入,2025-10-16 13:12:07
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 13:12:07
+10、使能MLO,2025-10-16 13:12:07
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 13:12:07
+12、AP入组C,2025-10-16 13:12:07
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 13:12:07
+14、终端加入,2025-10-16 13:12:07
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 13:12:07
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 13:12:07
+17、终端加入,2025-10-16 13:12:07
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 13:12:07
+AP在线
+1、AP入组C,2025-10-16 13:15:15
+2、重新使能服务模版,2025-10-16 13:15:15
+3、终端加入,2025-10-16 13:15:15
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 13:15:15
+5、去使能MLO,2025-10-16 13:15:15
+6、AP入组D,2025-10-16 13:15:15
+7、重新使能服务模版,2025-10-16 13:15:15
+8、终端加入,2025-10-16 13:15:15
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 13:15:15
+10、使能MLO,2025-10-16 13:15:15
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 13:15:15
+12、AP入组C,2025-10-16 13:15:15
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 13:15:15
+14、终端加入,2025-10-16 13:15:15
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 13:15:15
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 13:15:15
+17、终端加入,2025-10-16 13:15:15
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 13:15:15
+AP在线
+1、AP入组C,2025-10-16 13:17:25
+2、重新使能服务模版,2025-10-16 13:17:25
+3、终端加入,2025-10-16 13:17:25
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 13:17:25
+5、去使能MLO,2025-10-16 13:17:25
+6、AP入组D,2025-10-16 13:17:25
+7、重新使能服务模版,2025-10-16 13:17:25
+8、终端加入,2025-10-16 13:17:25
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 13:17:25
+10、使能MLO,2025-10-16 13:17:25
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 13:17:25
+12、AP入组C,2025-10-16 13:17:25
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 13:17:25
+14、终端加入,2025-10-16 13:17:25
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 13:17:25
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 13:17:25
+17、终端加入,2025-10-16 13:17:25
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 13:17:25
+AP在线
+1、AP入组C,2025-10-16 13:19:47
+2、重新使能服务模版,2025-10-16 13:19:47
+3、终端加入,2025-10-16 13:19:47
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 13:19:47
+5、去使能MLO,2025-10-16 13:19:47
+6、AP入组D,2025-10-16 13:19:47
+7、重新使能服务模版,2025-10-16 13:19:47
+8、终端加入,2025-10-16 13:19:47
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 13:19:47
+10、使能MLO,2025-10-16 13:19:47
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 13:19:47
+12、AP入组C,2025-10-16 13:19:47
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 13:19:47
+14、终端加入,2025-10-16 13:19:47
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 13:19:47
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 13:19:47
+17、终端加入,2025-10-16 13:19:47
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 13:19:47
+AP在线
+1、AP入组C,2025-10-16 13:22:18
+2、重新使能服务模版,2025-10-16 13:22:18
+3、终端加入,2025-10-16 13:22:18
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 13:22:18
+5、去使能MLO,2025-10-16 13:22:18
+6、AP入组D,2025-10-16 13:22:18
+7、重新使能服务模版,2025-10-16 13:22:18
+8、终端加入,2025-10-16 13:22:18
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 13:22:18
+10、使能MLO,2025-10-16 13:22:18
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 13:22:18
+12、AP入组C,2025-10-16 13:22:18
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 13:22:18
+14、终端加入,2025-10-16 13:22:18
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 13:22:18
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 13:22:18
+17、终端加入,2025-10-16 13:22:18
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 13:22:18
+AP在线
+1、AP入组C,2025-10-16 13:24:49
+2、重新使能服务模版,2025-10-16 13:24:49
+3、终端加入,2025-10-16 13:24:49
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 13:24:49
+5、去使能MLO,2025-10-16 13:24:49
+6、AP入组D,2025-10-16 13:24:49
+7、重新使能服务模版,2025-10-16 13:24:49
+8、终端加入,2025-10-16 13:24:49
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 13:24:49
+10、使能MLO,2025-10-16 13:24:49
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 13:24:49
+12、AP入组C,2025-10-16 13:24:49
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 13:24:49
+14、终端加入,2025-10-16 13:24:49
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 13:24:49
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 13:24:49
+17、终端加入,2025-10-16 13:24:49
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 13:24:49
+AP在线
+1、AP入组C,2025-10-16 13:27:04
+2、重新使能服务模版,2025-10-16 13:27:04
+3、终端加入,2025-10-16 13:27:04
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 13:27:04
+5、去使能MLO,2025-10-16 13:27:04
+6、AP入组D,2025-10-16 13:27:04
+7、重新使能服务模版,2025-10-16 13:27:04
+8、终端加入,2025-10-16 13:27:04
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 13:27:04
+10、使能MLO,2025-10-16 13:27:04
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 13:27:04
+12、AP入组C,2025-10-16 13:27:04
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 13:27:04
+14、终端加入,2025-10-16 13:27:04
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 13:27:04
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 13:27:04
+17、终端加入,2025-10-16 13:27:04
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 13:27:04
+AP在线
+1、AP入组C,2025-10-16 13:29:28
+2、重新使能服务模版,2025-10-16 13:29:28
+3、终端加入,2025-10-16 13:29:28
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 13:29:28
+5、去使能MLO,2025-10-16 13:29:28
+6、AP入组D,2025-10-16 13:29:28
+7、重新使能服务模版,2025-10-16 13:29:28
+8、终端加入,2025-10-16 13:29:28
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 13:29:28
+10、使能MLO,2025-10-16 13:29:28
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 13:29:28
+12、AP入组C,2025-10-16 13:29:28
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 13:29:28
+14、终端加入,2025-10-16 13:29:28
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 13:29:28
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 13:29:28
+17、终端加入,2025-10-16 13:29:28
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 13:29:28
+AP在线
+1、AP入组C,2025-10-16 13:31:36
+2、重新使能服务模版,2025-10-16 13:31:36
+3、终端加入,2025-10-16 13:31:36
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 13:31:36
+5、去使能MLO,2025-10-16 13:31:36
+6、AP入组D,2025-10-16 13:31:36
+7、重新使能服务模版,2025-10-16 13:31:36
+8、终端加入,2025-10-16 13:31:36
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 13:31:36
+10、使能MLO,2025-10-16 13:31:36
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 13:31:36
+12、AP入组C,2025-10-16 13:31:36
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 13:31:36
+14、终端加入,2025-10-16 13:31:36
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 13:31:36
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 13:31:36
+17、终端加入,2025-10-16 13:31:36
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 13:31:36
+AP在线
+1、AP入组C,2025-10-16 13:33:46
+2、重新使能服务模版,2025-10-16 13:33:46
+3、终端加入,2025-10-16 13:33:46
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 13:33:46
+5、去使能MLO,2025-10-16 13:33:46
+6、AP入组D,2025-10-16 13:33:46
+7、重新使能服务模版,2025-10-16 13:33:46
+8、终端加入,2025-10-16 13:33:46
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 13:33:46
+10、使能MLO,2025-10-16 13:33:46
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 13:33:46
+12、AP入组C,2025-10-16 13:33:46
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 13:33:46
+14、终端加入,2025-10-16 13:33:46
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 13:33:46
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 13:33:46
+17、终端加入,2025-10-16 13:33:46
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 13:33:46
+AP在线
+1、AP入组C,2025-10-16 13:36:33
+2、重新使能服务模版,2025-10-16 13:36:33
+3、终端加入,2025-10-16 13:36:33
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 13:36:33
+5、去使能MLO,2025-10-16 13:36:33
+6、AP入组D,2025-10-16 13:36:33
+7、重新使能服务模版,2025-10-16 13:36:33
+8、终端加入,2025-10-16 13:36:33
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 13:36:33
+10、使能MLO,2025-10-16 13:36:33
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 13:36:33
+12、AP入组C,2025-10-16 13:36:33
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 13:36:33
+14、终端加入,2025-10-16 13:36:33
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 13:36:33
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 13:36:33
+17、终端加入,2025-10-16 13:36:33
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 13:36:33
+AP在线
+1、AP入组C,2025-10-16 13:38:50
+2、重新使能服务模版,2025-10-16 13:38:50
+3、终端加入,2025-10-16 13:38:50
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 13:38:50
+5、去使能MLO,2025-10-16 13:38:50
+6、AP入组D,2025-10-16 13:38:50
+7、重新使能服务模版,2025-10-16 13:38:50
+8、终端加入,2025-10-16 13:38:50
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 13:38:50
+10、使能MLO,2025-10-16 13:38:50
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 13:38:50
+12、AP入组C,2025-10-16 13:38:50
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 13:38:50
+14、终端加入,2025-10-16 13:38:50
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 13:38:50
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 13:38:50
+17、终端加入,2025-10-16 13:38:50
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 13:38:50
+AP在线
+1、AP入组C,2025-10-16 13:40:48
+2、重新使能服务模版,2025-10-16 13:40:48
+3、终端加入,2025-10-16 13:40:48
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 13:40:48
+5、去使能MLO,2025-10-16 13:40:48
+6、AP入组D,2025-10-16 13:40:48
+7、重新使能服务模版,2025-10-16 13:40:48
+8、终端加入,2025-10-16 13:40:48
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 13:40:48
+10、使能MLO,2025-10-16 13:40:48
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 13:40:48
+12、AP入组C,2025-10-16 13:40:48
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 13:40:48
+14、终端加入,2025-10-16 13:40:48
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 13:40:48
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 13:40:48
+17、终端加入,2025-10-16 13:40:48
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 13:40:48
+AP在线
+1、AP入组C,2025-10-16 13:43:12
+2、重新使能服务模版,2025-10-16 13:43:12
+3、终端加入,2025-10-16 13:43:12
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 13:43:12
+5、去使能MLO,2025-10-16 13:43:12
+6、AP入组D,2025-10-16 13:43:12
+7、重新使能服务模版,2025-10-16 13:43:12
+8、终端加入,2025-10-16 13:43:12
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 13:43:12
+10、使能MLO,2025-10-16 13:43:12
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 13:43:12
+12、AP入组C,2025-10-16 13:43:12
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 13:43:12
+14、终端加入,2025-10-16 13:43:12
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 13:43:12
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 13:43:12
+17、终端加入,2025-10-16 13:43:12
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 13:43:12
+AP在线
+1、AP入组C,2025-10-16 13:45:27
+2、重新使能服务模版,2025-10-16 13:45:27
+3、终端加入,2025-10-16 13:45:27
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 13:45:27
+5、去使能MLO,2025-10-16 13:45:27
+6、AP入组D,2025-10-16 13:45:27
+7、重新使能服务模版,2025-10-16 13:45:27
+8、终端加入,2025-10-16 13:45:27
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 13:45:27
+10、使能MLO,2025-10-16 13:45:27
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 13:45:27
+12、AP入组C,2025-10-16 13:45:27
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 13:45:27
+14、终端加入,2025-10-16 13:45:27
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 13:45:27
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 13:45:27
+17、终端加入,2025-10-16 13:45:27
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 13:45:27
+AP在线
+1、AP入组C,2025-10-16 13:47:44
+2、重新使能服务模版,2025-10-16 13:47:44
+3、终端加入,2025-10-16 13:47:44
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 13:47:44
+5、去使能MLO,2025-10-16 13:47:44
+6、AP入组D,2025-10-16 13:47:44
+7、重新使能服务模版,2025-10-16 13:47:44
+8、终端加入,2025-10-16 13:47:44
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 13:47:44
+10、使能MLO,2025-10-16 13:47:44
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 13:47:44
+12、AP入组C,2025-10-16 13:47:44
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 13:47:44
+14、终端加入,2025-10-16 13:47:44
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 13:47:44
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 13:47:44
+17、终端加入,2025-10-16 13:47:44
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 13:47:44
+AP在线
+1、AP入组C,2025-10-16 13:49:51
+2、重新使能服务模版,2025-10-16 13:49:51
+3、终端加入,2025-10-16 13:49:51
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 13:49:51
+5、去使能MLO,2025-10-16 13:49:51
+6、AP入组D,2025-10-16 13:49:51
+7、重新使能服务模版,2025-10-16 13:49:51
+8、终端加入,2025-10-16 13:49:51
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 13:49:51
+10、使能MLO,2025-10-16 13:49:51
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 13:49:51
+12、AP入组C,2025-10-16 13:49:51
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 13:49:51
+14、终端加入,2025-10-16 13:49:51
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 13:49:51
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 13:49:51
+17、终端加入,2025-10-16 13:49:51
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 13:49:51
+AP在线
+1、AP入组C,2025-10-16 13:51:52
+2、重新使能服务模版,2025-10-16 13:51:52
+3、终端加入,2025-10-16 13:51:52
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 13:51:52
+5、去使能MLO,2025-10-16 13:51:52
+6、AP入组D,2025-10-16 13:51:52
+7、重新使能服务模版,2025-10-16 13:51:52
+8、终端加入,2025-10-16 13:51:52
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 13:51:52
+10、使能MLO,2025-10-16 13:51:52
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 13:51:52
+12、AP入组C,2025-10-16 13:51:52
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 13:51:52
+14、终端加入,2025-10-16 13:51:52
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 13:51:52
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 13:51:52
+17、终端加入,2025-10-16 13:51:52
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 13:51:52
+AP在线
+1、AP入组C,2025-10-16 13:54:24
+2、重新使能服务模版,2025-10-16 13:54:24
+3、终端加入,2025-10-16 13:54:24
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 13:54:24
+5、去使能MLO,2025-10-16 13:54:24
+6、AP入组D,2025-10-16 13:54:24
+7、重新使能服务模版,2025-10-16 13:54:24
+8、终端加入,2025-10-16 13:54:24
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 13:54:24
+10、使能MLO,2025-10-16 13:54:24
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 13:54:24
+12、AP入组C,2025-10-16 13:54:24
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 13:54:24
+14、终端加入,2025-10-16 13:54:24
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 13:54:24
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 13:54:24
+17、终端加入,2025-10-16 13:54:24
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 13:54:24
+AP在线
+1、AP入组C,2025-10-16 13:56:39
+2、重新使能服务模版,2025-10-16 13:56:39
+3、终端加入,2025-10-16 13:56:39
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 13:56:39
+5、去使能MLO,2025-10-16 13:56:39
+6、AP入组D,2025-10-16 13:56:39
+7、重新使能服务模版,2025-10-16 13:56:39
+8、终端加入,2025-10-16 13:56:39
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 13:56:39
+10、使能MLO,2025-10-16 13:56:39
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 13:56:39
+12、AP入组C,2025-10-16 13:56:39
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 13:56:39
+14、终端加入,2025-10-16 13:56:39
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 13:56:39
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 13:56:39
+17、终端加入,2025-10-16 13:56:39
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 13:56:39
+AP在线
+1、AP入组C,2025-10-16 13:58:29
+2、重新使能服务模版,2025-10-16 13:58:29
+3、终端加入,2025-10-16 13:58:29
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+4、检查终端是否加入MLO,2025-10-16 13:58:29
+5、去使能MLO,2025-10-16 13:58:29
+6、AP入组D,2025-10-16 13:58:29
+7、重新使能服务模版,2025-10-16 13:58:29
+8、终端加入,2025-10-16 13:58:29
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+9、检查终端是否加入MLO,2025-10-16 13:58:29
+10、使能MLO,2025-10-16 13:58:29
+11、组C去绑定MLO服务，为了让MLO占最后一位,2025-10-16 13:58:29
+12、AP入组C,2025-10-16 13:58:29
+13、服务模版绑定至AP视图，占最后一位,2025-10-16 13:58:29
+14、终端加入,2025-10-16 13:58:29
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+15、检查终端是否加入MLO,2025-10-16 13:58:29
+16、AP视图去绑定MLO服务，加入一个普通服务，占f位，占完后删除该普通服务,2025-10-16 13:58:29
+17、终端加入,2025-10-16 13:58:29
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc htb state UP group default qlen 3000
+    inet 77.88.0.21/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.21
+该设备Z5Y5KZY9LZRS69JF 获取到 IP:  77.88.0.21
+18、检查终端是否加入MLO,2025-10-16 13:58:29
+AP在线
+1、AP入组C,2025-10-16 14:00:53
+2、重新使能服务模版,2025-10-16 14:00:53
+3、终端加入,2025-10-16 14:00:53
+执行命令: adb -s Z5Y5KZY9LZRS69JF shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+Z5Y5KZY9LZRS69JF IP

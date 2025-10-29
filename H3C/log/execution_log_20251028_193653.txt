@@ -1,0 +1,45 @@
+no cmdline args
+start...
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+10ACBN2A22000UH IP
+10ACBN2A22000UH IP
+10ACBN2A22000UH IP
+10ACBN2A22000UH IP
+该设备10ACBN2A22000UH 未成功连接
+WiFi连接结果: False
+UI操作异常: 'Picture Template(D:\\H3C_demo\\H3C\\airtest\\点击加入\\tpl1761650080037.png) not found in screen'
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+10ACBN2A22000UH IP
+10ACBN2A22000UH IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.109/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.109
+该设备10ACBN2A22000UH 获取到 IP:  77.88.0.109
+WiFi连接结果: True
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.110/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.110
+该设备10ACBN2A22000UH 获取到 IP:  77.88.0.110
+WiFi连接结果: True
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.111/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.111
+该设备10ACBN2A22000UH 获取到 IP:  77.88.0.111
+WiFi连接结果: True
+执行命令: adb -s 10ACBN2A22000UH shell am start -n com.steinwurf.adbjoinwifi/.MainActivity --esn connect -e ssid "0202035888" -e password_type WPA -e password "123123123"
+10ACBN2A22000UH IP
+: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000
+    inet 77.88.0.112/16 brd 77.88.255.255 scope global 
+16
+ 77.88.0.112
+该设备10ACBN2A22000UH 获取到 IP:  77.88.0.112
+WiFi连接结果: True
