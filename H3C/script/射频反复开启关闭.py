@@ -5,7 +5,7 @@ AC = connect("2520x")
 while True:
     AC.send('''
             sys
-            wlan ap ap4
+            wlan ap ap6
             radio 1
             radio enable
             
@@ -16,7 +16,7 @@ while True:
     time.sleep(1)
     AC.send('''
                 sys
-                wlan ap ap4
+                wlan ap ap6
                 radio 1
                 
                 radio disable

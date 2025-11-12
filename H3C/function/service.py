@@ -40,7 +40,7 @@ def set_service_template(device_name,num):
         # 创建服务模版
         dut.send(f"""
                     wlan service-template {b}
-                    ssid {b}
+                    ssid mmmmmmmmmmmm{b}
                     
                     mlo enable
                     akm mode psk
@@ -161,7 +161,7 @@ def delete_service_template(device_name,num):
     删除服务模版
     """
     dut = connect(device_name)
-    a = "g"
+    a = "m"
     for i in range(num):
         b = a + str(i)
         # 删除服务模版
