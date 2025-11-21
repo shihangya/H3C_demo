@@ -43,6 +43,49 @@ def CheckApOnline(access_name,ip_address):
         print("AP不在线")
         return False
 
+
+
+
+def CheckAny(access_name,expect_str,cmd_txt,expect_list,expect_count):
+    # 使用connect函数获取设备实例
+    dut = connect(access_name)
+    Scmd = cmd_txt
+    # 执行命令检查AP是否在线，并判断结果
+    result = dut.CheckCommand(expect_str,
+                              cmd=Scmd,
+                              expect=expect_list,
+                              expect_count=expect_count,
+                              stop_max_attempt=3,
+                              relationship='and',
+                              wait_fixed=3
+                              )
+    if result:
+        print("检查通过")
+        return 1
+    else:
+        print("检查不通过")
+        return 2
+
+
+def CheckAny_not(access_name,not_expect_str,cmd_txt,expect_list):
+    # 使用connect函数获取设备实例
+    dut = connect(access_name)
+    Scmd = cmd_txt
+    # 执行命令检查AP是否在线，并判断结果
+    result = dut.CheckCommand(not_expect=not_expect_str,
+                              cmd=Scmd,
+                              expect=expect_list,
+                              stop_max_attempt=2,
+                              wait_fixed=2
+                              )
+    if result:
+        print("检查通过")
+        return 1
+    else:
+        print("检查不通过")
+        return 2
+
+
 def MackLog():
     import sys
 

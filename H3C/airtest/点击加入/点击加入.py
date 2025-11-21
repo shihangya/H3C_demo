@@ -11,7 +11,7 @@ from function.service import *
 MackLog()
 
 if not cli_setup():
-    auto_setup(__file__, logdir=None, devices=["Android:///10ACBN2A22000UH",])
+    auto_setup(__file__, logdir=None, devices=["Android:///Z5Y5KZY9LZRS69JF",])
 
 
 from poco.drivers.android.uiautomation import AndroidUiautomationPoco
@@ -28,34 +28,36 @@ AC = connect("2520x1")
 while True:
     try:
         # 连接WiFi
-        connect_result = connect_to_wifi("10ACBN2A22000UH", "0202035888", "123123123")
+        connect_result = connect_to_wifi("Z5Y5KZY9LZRS69JF", "0202035888", "123123123")
         print(f"WiFi连接结果: {connect_result}")
     except Exception as e:
         print(f"WiFi连接异常: {e}")
+    #
+    # try:
+    #
+    #     # 发送命令
+    #     AC.send(f'''
+    #                     dis wlan client
+    #                     dis wlan client v | in MLO
+    #
+    #                   '''
+    #             )
+    # except Exception as e:
+    #     print(f"发送命令异常: {e}")
 
     try:
-
-        # 发送命令
-        AC.send(f'''
-                        dis wlan client  
-                        dis wlan client v | in MLO
-                                                   
-                      '''
-                )
-    except Exception as e:
-        print(f"发送命令异常: {e}")
-
-    try:
+        
         keyevent("HOME")
+        touch(Template(r"tpl1763013041091.png", record_pos=(0.188, 0.923), resolution=(1240, 2772)))
+        touch(Template(r"tpl1763012886891.png", record_pos=(-0.198, -0.347), resolution=(1240, 2772)))
+        touch(Template(r"tpl1763012897511.png", record_pos=(-0.004, -0.305), resolution=(1240, 2772)))
+        touch(Template(r"tpl1763012908444.png", record_pos=(0.232, 0.952), resolution=(1240, 2772)))
 
-        poco("设置").click()
 
-        touch(Template(r"tpl1761650066669.png", record_pos=(0.002, -0.103), resolution=(1440, 3200)))
-        touch(Template(r"tpl1761650080037.png", record_pos=(-0.001, -0.123), resolution=(1440, 3200)))
-        touch(Template(r"tpl1761650088855.png", record_pos=(0.24, -0.026), resolution=(1440, 3200)))
-        touch(Template(r"tpl1761650095229.png", record_pos=(0.009, 0.742), resolution=(1440, 3200)))
     except Exception as e:
         print(f"UI操作异常: {e}")
+
+
 
 
 

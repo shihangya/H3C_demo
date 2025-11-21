@@ -35,14 +35,16 @@ def set_service_template(device_name,num):
     """
     dut = connect(device_name)
     a = "m"
+
     for i in range(num):
+
         b = a + str(i)
         # 创建服务模版
         dut.send(f"""
                     wlan service-template {b}
-                    ssid mmmmmmmmmmmm{b}
+                    ssid mmmmmmmmmmmmmm{b}
                     
-                    mlo enable
+                    
                     akm mode psk
                     preshared-key pass-phrase simple 123123123
                     cipher-suite ccmp
@@ -52,7 +54,7 @@ def set_service_template(device_name,num):
                     pmf mandatory
                     service-template enable
                 """)
-        i = i + 1
+
 
 
 def set_service_clear_template(device_name, num):

@@ -12,8 +12,11 @@ while True:
             radio 2
             radio enable
             
+            radio 3
+            radio enable
+            
             ''')
-    time.sleep(1)
+
     AC.send('''
                 sys
                 wlan ap ap6
@@ -23,6 +26,9 @@ while True:
                 radio 2
                 radio disable
                 
+                radio 3
+                radio disable
+                
                 ''')
-    time.sleep(1)
+
 

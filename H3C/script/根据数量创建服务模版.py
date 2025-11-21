@@ -1,7 +1,7 @@
 from function import *
 
 
-set_service_template("2520x",16)
+set_service_template("2580_1",514)
 # delete_service_template("2520x",20)
 
 
